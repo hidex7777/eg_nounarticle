@@ -1,4 +1,4 @@
-# 名詞について(2)
+# 名詞について(2)：名詞の単位性
 〈冠詞〉と名詞の単位性について触れた後で、学校英語の5分類に対処していこう。
 
 ## 可算名詞と不可算名詞について
@@ -37,9 +37,9 @@
 #### 総称用法（総称表現）
 「犬というもの」というように、その種類に属するメンバーに共通して見られる属性を表現したいときがある。これには、今述べたように3種類あるある。
 
-1. ［無冠詞＋複数形］　Lions are dangerous animals.
-2. ［不定冠詞＋単数形］　A lion is a dangerous animal.
-3. ［定冠詞＋単数形］　The lion is a dangerous animal.
+1. ［無冠詞＋複数形］　_Lions_ are dangerous animals.
+2. ［不定冠詞＋単数形］　_A lion_ is a dangerous animal.
+3. ［定冠詞＋単数形］　_The lion_ is a dangerous animal.
 
 もっとも一般的なのが例文1である。
 
@@ -52,7 +52,7 @@
 
 1. 複数形にできない：information（情報）　×information_s_
 2. 不定冠詞に後続できない：chalk（チョーク）　×_a_ chalk
-3. 数詞で直接修飾できない：two _pieces of_ furniture（家具2点）　×two funiture_s_
+3. 数詞で直接修飾できない：_two pieces of_ furniture（家具2点）　×two funiture_s_
 4. 量の多少を表す語で修飾できる：_much_ money（大金）　×_many_ money
 
 ## 学校英語の5分類
