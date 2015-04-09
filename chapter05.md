@@ -166,3 +166,15 @@ peopleは典型的な〈多義語〉である。ここで〈つねに複数扱�
 
 - He pulled out two white hairs.（彼は白髪を2本抜いた。）
 
+----
+次の〈物質名詞〉へのブリッジ（bridge）として、〈集合名詞〉のひとつとしてあげたclothing（衣類）の注意点も見ておこう。
+
+clothingは「衣類、衣料品」という意味の〈集合名詞〉で〈不可算名詞〉である。同じく〈不可算名詞〉のclothesも「衣服」という意味だ。clothingが「身にまとうもの全体」を指していて、大量に生産・販売される「衣料品」をいうときに使われるのに対して、clothesは「いくつかのアイテムで構成された衣服」を指している。衣料品店やアパレルメーカーやファッション業界以外の、日常の文脈ではclothesを使うことが多い。
+
+また「布」の意味のclothは〈物質名詞〉だが、「テーブルクロス」の意味なら〈普通名詞〉だ。clotheは〈他動詞〉で「～に着させる」という意味である。
+
+- The store carries men's clothing.（その店は男性用衣料品を扱っている。）※clothingで［U］衣料品、衣類
+- Put your dirty clothes into the laundry basket.（汚れた衣類は洗濯かごに入れなさい。）※clothesで［U］衣服
+- I need a piece of cloth.（1枚の布が必要だ。）
+- I need to lay a cloth on the table.（テーブルにテーブルクロスを敷かなければならない。）※「テーブルクロス」の意味
+- She was clothed in silk.（彼女は絹の服を着ていた。）※clotheで他動詞
