@@ -48,7 +48,7 @@
 - a _loaf_ of bread（パン1塊）
 - a _pack_ of cards（トランプ1組）※トランプ1枚はa playing card
 - a _piece_ of chalk [paper]（チョーク［紙］1本［枚］）
-- a _sheet_ of paper（紙1枚）
+- a _sheet_ of paper（紙1枚）※形や大きさが決まった紙はsheet、決まっていなければpiece
 - a _slice_ of ham [bread, cake]（ハム［パン、ケーキ］1切れ）
 
 ### 容器を示す語
@@ -88,13 +88,13 @@
 ## 注意すべき物質名詞
 〈物質名詞〉としてよく使われる名詞には、〈普通名詞〉として使われる単語もある。先に述べたstoneのようなケースだ。
 
-これは〈物質名詞〉にかんして注意すべきであるというよりも、同じ単語が〈単位性〉を持つばあいと持たないばあいとがある、という、〈可算性〉にかんする一般的な注意事項でしかない。
+これは〈物質名詞〉にかんして注意すべきであるというよりも、**同じ単語が〈単位性〉を持つばあいと持たないばあいとがある**、という、〈可算性〉にかんする一般的な注意事項でしかない。
 
 我々は一貫して、〈可算と不可算〉という名詞の区別にこだわってきた。この立場から言えば、名詞は〈可算〉のカテゴリーに属すか〈不可算〉のカテゴリーに属すかが決定的な違いであって、〈普通〉〈集合〉〈物質〉といった分類にさしたる意義はない。
 
 学校英語ではこの分類に拘泥するあまり、不要な「厄介事」を抱え込んでしまっている。「stoneは物質名詞だが、**例外的に普通名詞に転用される**ことがある」といった複雑な説明をしなくてはならなくなる。しかし我々の立場からいえば、たんに数えられるものをstoneとよぶばあいもあれば、数えられないものをstoneとよぶこともある、というだけの話である。どちらも可能であるような単語は数多くあり、そのような単語はたんに**多義的**である、というだけである。
 
-とはいえ**大学受験では頻出**項目でもあるため、いちおうここで触れておくことにする。
+とはいえ**大学受験では頻出**項目でもあるため、いちおうここで触れておくことにする。以下にあげるのは一例であって、網羅的ではない。網羅するのは不可能だ。文脈によって判断できる感覚を、文の蓄積によって獲得しておくべきだろう。
 
 - cloth
     - I need a piece of cloth.（1枚の布が必要だ。）
@@ -103,13 +103,25 @@
     - Put your dirty clothes into the laundry basket.（汚れた衣類は洗濯かごに入れなさい。）※clothesで［U］衣服
     - The store carries men's clothing.（その店は男性用衣料品を扱っている。）※clothingで［U］衣料品、衣類
 - copper
+    - Copper has been in use at least 10,000 years.（銅は少なくとも1万年は使用されてきた。）
+    - He makes a collection of coppers.（彼は銅貨を収集している。）※「銅貨、1ペニー」に意味
 - fire
     - Fire gives light and head.（火は光と熱を出す。）
-    - Turn off all the lights.（電灯を全部消しなさい。）※「ライト・電灯」の意味
+    - Turn off all the lights.（電灯を全部消しなさい。）※「ライト、電灯」の意味
 - glass
+    - Glass breaks easily.（ガラスは割れやすい。）
+    - He handed me a glass.（彼は私にコップを手渡した。）
 - iron
+    - Steel is made from iron.（鋼は鉄から作られる。）
+    - An iron is a small appliance.（アイロンは小さな電化製品だ。）
 - paper
+    - This table is made of paper.（このテーブルは紙でできている。）
+    - She reads an English paper.（彼女は英字新聞を読む。）※「新聞」の意味
+    - He published a paper on politics.（彼は政治学についての論文を発表した。）※「論文」の意味
+    - Look through the papers, will you?（その書類に目を通してくれないか。）※「書類」の意味
 - rubber
+    - The sole of this shoe is made of rubber.（この靴の靴底はゴム製だ。）
+    - May I borrow your rubber?（消しゴムを借りていい？）※「消しゴム」（英）の意味
 - stone
     - The bridge is of stone.（その橋は石でできている。）
     - The crowd threw _stones_ at the police.（群衆が警官たちに投石した。）※投げる石には単位がある
