@@ -128,8 +128,32 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 〈抽象名詞〉の慣用表現に、〈前置詞＋抽象名詞〉で形容詞や副詞の働きをするものがある。これは**試験に出やすい**ため覚えておくのが得策だろう。
 
 #### of＋抽象名詞：形容詞
-- This book is _of no use to_ me.（この本は私には役に立たない。）※of no useはuselessと同義
+- This book is _of no use to_ me.（この本は私には役に立たない。）※of no useはuselessと同義；of useならusefulと同義
 - He is a man _of ability_.（彼は有能な人だ。）
+- It is _of_ great _importance_ to Japan both politically and economically.（日本にとって政治的にも経済的にも非常に重要である。）
+- These old coins are now _of no value_.（これらの古コインはいまでは無価値だ。）※of valueならvaluable（価値ある）と同義
+- It is _of_ great _worth_.（それはおおいに価値がある。）
+
+#### with＋抽象名詞：副詞
+- Treat it _with care_.（注意してそれを扱いなさい。）
+- We did it _with difficulty_.（我々は苦労してそれを成し遂げた。）
+- It was done _with ease_.（楽々とできた。）
+- She showed me the way to the station _with kindness_.（彼女は親切にも駅への道を教えてくれた。）
+- The parrot would say _with rapidity_.（そのオウムは早口で言ったものだ。）
+
+#### その他
+- at leisure
+- at length
+- at will
+- by accident
+- by mistake
+- in excitement
+- in anger
+- in haste
+- in particular
+- in time
+- on purpose
+- on time
 
 
 an importance（ある種の重要性）；×He has a big importance in our team.とは言えない→He is of great importance in/to our team.
@@ -142,7 +166,7 @@ an importance（ある種の重要性）；×He has a big importance in our team
 
 〈前置詞+抽象名詞〉
 形容詞や副詞の働きをする。
-It is of great importance to Japan both politically and economically.
-（日本にとって政治的にも経済的にも非常に重要である。）
+
+
 of ability（有能な）, in anger（怒って）, of value（価値ある）, with care（気をつけて）, with ease（楽々と）, on purpose（故意に）, by accident（偶然に）
 
