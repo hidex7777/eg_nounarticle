@@ -1,30 +1,53 @@
 # 固有名詞 proper nounsの用法
-theと固有名詞
-定冠詞+固有名詞がふつうである固有名詞
-(1)固有名詞が複数形の場合
-the Alps, the West Indies, the Netherlands
-集合体の国家　the United States,  the United Kingdom
-(2)〈A of B〉の形
-the Gulf of Mexico, the University of Tokyo
-(3)〈固有名詞+普通名詞〉あるいは普通名詞が省略されている場合
-(a)海・川・運河
-the Pacific, the Themes, the Suez Canal
-(b)海峡・半島・砂漠
-(c)公共建築物
-the British Museum,
-(d)船舶・列車
-the Titanic, the Queen Elizabeth
-(e)新聞・雑誌
-The New York Times, The The Economist
-※本来抽象名詞：Times, Vogue
-定冠詞を用いない固有名詞
-(1)普通名詞を含まないもの
-人名・天体名・国名・大陸・州・都市名
-Mars
-※the sun, the earth, the moon ->Earth（惑星の1つとして言いたいとき）
-(2)山・湖・島・岬
-(3)建物や施設：慣習的な例外が多い
-Hyde Park, Ueno Station, London Bridge
+〈固有名詞〉は、特定の人や事物に付けられた名のことである（第二章「固有名詞と一般名詞」参照）。学校英語的な定義をするなら、大文字で書き始め、**原則として**不定冠詞との結びつきはなく、複数形にもしない。定冠詞との結びつきはあるものとないものとがある。
+
+ここまで読んできた読者ならすでに知っている通り、「原則として」という但し書きが付く場合、その「例外」が**試験では問われやすい**。とはいえ、基本的な用法は、やはりそれはそれで問題にされる。
+
+## 定冠詞と固有名詞
+〈固有名詞〉の先行して〈定冠詞〉＝theを述べるのか否かは、慣習的なものが多く、厳密なルールはない。一般的に、経験的に、「こういうケースが多い」ということはあるため、ある程度は覚えておいたほうがよい。
+
+### 定冠詞との結びつきがない固有名詞
+#### 人名・天体名・国名・大陸・州・都市名など
+- Robinson（ロビンソン）, Mars（火星）, Japan（日本）, Eurasia（ユーラシア大陸）, Europe（ヨーロッパ）, California（カリフォルニア州）, Michigan（ミシガン州）, Tokyo（東京）, Niigata Prefecture（新潟県）
+
+〈固有名詞〉は同種の他のものと区別するためにそれぞれに付けられた名前である。「太陽」「月」「地球」「空」「海」などは、もともとは「常識的に考えてこの世にただ1つのもの」だった。古代エジプトでは「北上する」ことを「ナイルを下る」といい、「南下する」ことを「ナイルを上る」と行った。古代エジプト人にとって、ナイルこそは世界の中心であり、そもそも他の川などなかったのだから、区別する必要もなかった。だから、メソポタミアの北から南へ流れる川を説明するのに、「ナイルを上る方向へ下るナイル（＝川）がある」などとややこしい説明をした。同様に、「太陽」「月」「地球」「空」「海」などは固有名詞で他と区別する必要はなく、その代わりに定冠詞を用いてthe sun, the earth, the sky, the seaなどと示すことになっていた。もし地球を火星などと同列に、惑星のひとつとして述べる場合は、Earthと固有名詞にしてよい。
+
+#### 山・湖・島・岬
+- Mt. Asama（浅間山）, Moumt Fuji（富士山）, Lake Biwa（琵琶湖）, Sado Island（佐渡島）, Cape Horn（ホーン岬）
+
+#### 建物や施設（例外が多い）
+- Hyde Park（ハイドパーク）, Hibiya Park（日比谷公園）, Times Square（タイムズスクエア）, Grand Central Station（グランド・セントラルステーション）, Ueno Station（上野駅）, London Bridge（ロンドン・ブリッジ）, Westminster Abbey（ウェストミンスター寺院）
+
+### 定冠詞との結び付きがある固有名詞
+#### もともと複数形、あるいは集合体の国家
+- the Alps（アルプス山脈）, the Rockies（ロッキー山脈）, the Himalayas（ヒマラヤ山脈）, the West Indies（西インド諸島）, the Philippines（フィリピン共和国）, the United States（アメリカ合衆国）, the Netherlands（オランダ）, the United Kingdom（イギリス）
+
+#### 〈A of B〉の形
+- the Gulf of Mexico（メキシコ湾）, the Bank of Scotland（スコットランド銀行）, the District of Columbia（コロンビア特別区）, the University of Tokyo（東京大学）
+
+#### 〈固有名詞＋普通名詞〉あるいは普通名詞が省略されている
+##### (a)海・川・運河
+- the Pacific _(Ocean)_（太平洋）, the Sea of Japan（日本海）, the Themes _(River)_（テムズ川）, the Suez Canal（スエズ運河）
+
+##### (b)海峡・半島・砂漠
+- the Izu Peninsula（伊豆半島）, the Sahara (Desert)（サハラ砂漠）
+
+##### (c)公共建築物
+- the British Museum（大英博物館）, the Hibiya Library（日比谷図書館）, the Eiffel Tower（エッフェル塔）
+
+##### (d)船舶・列車
+- the Titanic（タイタニック号）, the Queen Elizabeth（クイーンエリザベス号）
+
+##### (e)新聞・雑誌
+- The New York Times（ニューヨーク・タイムズ）, The Economist（エコノミスト）
+
+※新聞名にはたいてい定冠詞をともなうが、雑誌名にはともなわないものが多い。本来抽象名詞だったものを雑誌名にしたTimesやVogueなどには定冠詞は結びつかない。
+
+## 不定冠詞と固有名詞、または複数形
+
+
+
+
 a/anと固有名詞
 (1)「～という人」
 (2)「～のような人」

@@ -8,3 +8,4 @@
 * [第五章　集合名詞 collective nounsの用法](chapter05.md)
 * [第六章　物質名詞 material nounsの用法](chapter06.md)
 * [第七章　抽象名詞 abstract nounsの用法](chapter07.md)
+* [第八章　固有名詞 proper nounsの用法](chapter08.md)
