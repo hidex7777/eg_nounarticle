@@ -124,49 +124,56 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 - I have a bit of _good_ news to tell everyone.（みんなに伝えたいいい知らせがある。）
 - He is making _steady_ progress in speaking English.（彼は英語を話すのが着実に進歩している。）
 
+〈純不可算名詞〉の〈抽象名詞〉を再掲しておく：
+
+- advice（助言）, applause（拍手喝采）, behavior（行動）, conduct（行い）, damage（損害）, equipment（設備）, fun（楽しみ）, harm（害）, homework（宿題）, information（情報）, luck（運）, music（音楽）, news（知らせ）, progress（進展）, weather（気象）, wisdom（知恵）, work（労働）
+
 ### 前置詞＋抽象名詞
-〈抽象名詞〉の慣用表現に、〈前置詞＋抽象名詞〉で形容詞や副詞の働きをするものがある。これは**試験に出やすい**ため覚えておくのが得策だろう。
+〈抽象名詞〉の慣用表現に、〈前置詞＋抽象名詞〉で形容詞や副詞の働きをするものがある。これは**試験に出やすい**ため覚えておくのが得策だろう。文法問題はもとより、長文読解において当たり前のように使われる。
 
 #### of＋抽象名詞：形容詞
-- This book is _of no use to_ me.（この本は私には役に立たない。）※of no useはuselessと同義；of useならusefulと同義
-- He is a man _of ability_.（彼は有能な人だ。）
-- It is _of_ great _importance_ to Japan both politically and economically.（日本にとって政治的にも経済的にも非常に重要である。）
-- These old coins are now _of no value_.（これらの古コインはいまでは無価値だ。）※of valueならvaluable（価値ある）と同義
-- It is _of_ great _worth_.（それはおおいに価値がある。）
+
+- He is a man _of ability_.（彼は有能な人だ。）※＝able
+- It is _of_ great _importance_ to Japan both politically and economically.（日本にとって政治的にも経済的にも非常に重要である。）※＝important
+- That book is _of use_ to me.（あの本は私には役立つ。）※＝useful
+- This book is _of no use_ to me.（この本は私には役に立たない。）※＝useless
+- This old coin is now _of value_.（この古コインはいまでは価値がある。）※＝valuable
+- These old coins are now _of no value_.（これらの古コインはいまでは無価値だ。）
+- It is _of_ great _worth_.（それはおおいに価値がある。）※＝worthy
 
 #### with＋抽象名詞：副詞
-- Treat it _with care_.（注意してそれを扱いなさい。）
-- We did it _with difficulty_.（我々は苦労してそれを成し遂げた。）
-- It was done _with ease_.（楽々とできた。）
-- She showed me the way to the station _with kindness_.（彼女は親切にも駅への道を教えてくれた。）
-- The parrot would say _with rapidity_.（そのオウムは早口で言ったものだ。）
+- Treat it _with care_.（注意してそれを扱いなさい。）※＝carefully
+- We did it _with difficulty_.（我々は苦労して〔かろうじて〕それを成し遂げた。）※＝barely
+- It was done _with ease_.（楽々とできた。）※＝easily
+- She showed me the way to the station _with kindness_.（彼女は親切にも駅への道を教えてくれた。）※＝kindly
+- The parrot would say _with rapidity_.（そのオウムは早口で言ったものだ。）※＝repidly
 
 #### その他
-- at leisure
-- at length
-- at will
-- by accident
-- by mistake
-- in excitement
-- in anger
-- in haste
-- in particular
-- in time
-- on purpose
-- on time
+- I live _at leisure_.（私はのんびり〔ゆっくり〕暮らします。）※＝leisurely
+- _At length_, the Liberal Democratic Party went out of power.（ついに自民党が野党に下った。）※＝finally
+- An animal can move _at will_.（動物は意のままに動く。）※＝freely
+- I met her _by accident_.（偶然に彼女に出会った。）※＝accidentally
+- I drank something _by mistake_.（まちがって何かを飲んでしまった。）※＝mistakenly
+- I was watching _in excitement_.（私はハラハラして見ていた。）※＝excitedly
+- They parted _in anger_.（彼らは怒って別れた。）※＝angrily
+- Let's go _in haste_!（急いで行こう！）※＝hastily
+- There are no problems _in particular_.（特に問題はない。）※＝particularly
+- That doesn't make it _in time_.（それは間に合わない。）
+- He made a mistake _on purpose_.（彼は故意に間違えた。）※＝intentinally
+- Are we arriving _on time_?（時間通りに到着しますか？）※＝punctually
 
+最後にひとつ注意点。
 
-an importance（ある種の重要性）；×He has a big importance in our team.とは言えない→He is of great importance in/to our team.
+ここではできるだけ、単発の語彙やイディオムではなく、例文で紹介したが、やはり「可能な・ありうる表現」をたくさん目にしておくことが重要だ。
 
+たとえば〈抽象名詞〉のimportanceを（学校英語の言い方を借りれば）「普通名詞に転用」してan importance（ある種の重要性）という意味で使うことができる。しかし、だからといって、勝手な英作文をしてはならない。
 
+「彼は我々のチームにとって非常に重要だ。」という意味で：
 
+- ×He has a big importance in our team.
 
+とは言えない。この意味では：
 
+- He is of great importance in our team.※inの代わりにtoでも可。
 
-
-〈前置詞+抽象名詞〉
-形容詞や副詞の働きをする。
-
-
-of ability（有能な）, in anger（怒って）, of value（価値ある）, with care（気をつけて）, with ease（楽々と）, on purpose（故意に）, by accident（偶然に）
-
+のように言う。
