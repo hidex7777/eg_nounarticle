@@ -1,4 +1,4 @@
-# 第九章　問題演習：名詞1
+# 第9章　問題演習：名詞1
 
 
 ```
@@ -27,7 +27,7 @@
 21. I want to buy some ( cloth / cloths / clothes ) to make a blouse.
 22. Yumiko carried two ( baggage / baggages / pieces of baggage ) on her trip to Australia.
 23. I had a cup of coffee and ( two breads / two slices of bread).
-24. ( Amazon, The Amazon ) runs 3,000 miles from ( Andes, the Andes ) to the sea.
+24. ( Amazon / The Amazon ) runs 3,000 miles from ( Andes, the Andes ) to the sea.
 ```
 
 ## 解答と解説：問題1
