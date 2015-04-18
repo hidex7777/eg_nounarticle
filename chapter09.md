@@ -1,8 +1,8 @@
-# 第9章　問題演習：名詞1
+# 第9節　問題演習：名詞1
 
-
+## 9-1: 【問題1】
 ```
-【問題1】正しいほうを選びなさい。
+正しいほうを選びなさい。
 
 1. ( Dog / A dog ) is a four-legged mammal.
 2. The police ( is / are ) investigating the murder.
@@ -30,8 +30,8 @@
 24. ( Amazon / The Amazon ) runs 3,000 miles from ( Andes, the Andes ) to the sea.
 ```
 
-## 解答と解説：問題1
-1. 「犬は4本足の哺乳動物だ。」〈可算名詞〉が単数扱い（is）されているからis。
+### 9-1-1: 解答と解説：問題1
+1. 「犬は4本足の哺乳動物だ。」〈可算名詞〉が単数扱い（is）されているからA dog。
 2. 「警察はその殺人事件を捜査している。」policeは「つねに複数扱い」なのでare。
 3. 「彼らはたくさんの年代物の家具を持っている。」furniture（家具）は〈不可算〉よってfurniture。
 4. 「プルトニウムは銀白色の放射性金属である。」plutoniumが〈不可算名詞〉として使われているからPlutonium。
@@ -56,18 +56,20 @@
 23. 「1杯のコーヒーと2枚のパンを食べた。」breadは〈不可算〉よってtwo slices of bread。
 24. 「アマゾン川はアンデス山脈から海へ3000マイルの距離を流れている。」川やもともと複数形の固有名詞には不定冠詞が先行する。よってThe Amazon, the Andes。
 
+## 9-2: 【問題2】
 ```
-【問題2】適切な冠詞を入れなさい。不要なばあいは×を記入しなさい。
+適切な冠詞を入れなさい。不要なばあいは×を記入しなさい。
 
 1. We Japanese are often said to be (   ) hard-working people.
 
 ```
 
-## 解答と解説：問題2
+### 9-2-1: 解答と解説：問題2
 1. 「我々日本人はしばしば勤勉な国民だと言われる。」「国民」を意味するpeopleは〈可算〉よってa。
 
+## 9-3: 【問題3】
 ```
-【問題3】選択肢のうち正しいものを選びなさい。
+選択肢のうち正しいものを選びなさい。
 
 1. How (   ) can I take on the airplane with me?
 (1) many baggages  (2) many pieces of baggage
@@ -129,7 +131,7 @@
 
 ```
 
-## 解答と解説：問題3
+### 9-3-1: 解答と解説：問題3
 1. 「飛行機にはいくつの手荷物を持ち込めますか？」baggage〈不可算〉よって(2)。
 2. 「イタリアの南になる都市メッシーナは石でできている。」〈不可算〉なので(1)。
 3. 「警察はあごひげをはやした背の高い男を探している。」「つねに複数扱い」よって(2)。
@@ -150,8 +152,9 @@
 18. 「彼女は娘に詩をひとつ読んであげた。」〈不可算〉の「詩」がpoetry、〈可算〉の「詩」がpoem。ここでは〈不可算〉の数えかたになっているので(3)。
 19. 「私の父は決して私に多くの助言はしなかった。」〈不可算〉だから(2)。
 
+## 9-4: 【問題4】
 ```
-【問題4】次の(a)～(l)の名詞の種類を、普通名詞・集合名詞・物質名詞・抽象名詞・固有名詞から選びなさい。
+次の(a)～(l)の名詞の種類を、普通名詞・集合名詞・物質名詞・抽象名詞・固有名詞から選びなさい。
 
 1. Fill the (a)glasses with (b)wine.
 2. They sell (c)butter, (d)tea and (e)sugar at that (f)store.
@@ -161,15 +164,16 @@
 
 ```
 
-## 解答と解説：問題4
+### 9-4-1: 解答と解説：問題4
 1. (a)普通名詞 (b)物質名詞
 2. (c)物質名詞 (d)物質名詞 (e)物質名詞 (f)普通名詞
 3. (g)固有名詞 (h)普通名詞
 4. (i)集合名詞 (j)普通名詞
 5. (k)普通名詞 (l)抽象名詞
 
+## 9-5: 【問題5】
 ```
-【問題5】次の文の誤りを訂正しなさい。訂正する必要がなければ○を記入しなさい。
+次の文の誤りを訂正しなさい。訂正する必要がなければ○を記入しなさい。
 
 1. The Japanese are Asian people.
 2. I felt that she had given me a good advice.
@@ -183,7 +187,7 @@
 10. The carry-on baggages of all passengers must be inspected by airline officials before boarding.
 ```
 
-## 解答と解説：問題5
+### 9-5-1: 解答と解説：問題5
 1. 主語はthe Japanese「日本人」で〈複数扱い〉。ここでのpeopleは「1つの国民」なのでan Asian people。
 2. 〈不可算〉なのでgood adviceかa piece of advice。
 3. equipment（装置）は〈不可算〉だがdevice（装置）は〈可算〉。よって○。
@@ -194,8 +198,9 @@
 9. information。
 10. baggage。
 
+## 9-6: 【問題6】
 ```
-【問題6】次の英文を和訳しなさい。
+次の英文を和訳しなさい。
 
 1. The class were very glad at the success of their classmate.
 2. We cannot truly know a people, or a civilization without knowing something about its history.
@@ -203,18 +208,19 @@
 4. The museum acquired a Picasso last year.
 ```
 
-## 解答と解説：問題6
+### 9-6-1: 解答と解説：問題6
 1. クラスのみんながクラスメイトの成功を非常に喜んだ。
 2. その歴史を知ることなしに、民族や文明について、本当に知ることはできない。
 3. 彼はバッグにたくさんの資料を入れて持ち歩いている。
 4. その美術館は去年、ピカソの作品をひとつ手に入れた。
 
+## 9-7: 【問題7】
 ```
-【問題7】次の和文を英訳しなさい。
+次の和文を英訳しなさい。
 
 1. 田中さんという方があなたに会いに来ました。
 ```
 
-## 解答と解説：問題7
+### 9-7-1: 解答と解説：問題7
 1. A Mr. Tanaka came to see you.
 
