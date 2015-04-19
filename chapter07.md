@@ -115,6 +115,7 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 
 - You should know _the_ difficulty _of learning_ how to drive a car.（きみは車の運転を覚える難しさを知るべきだ。）
 - I have learned _the_ strength _of human spirit_.（私は人間の精神の強さを学んできた。）
+- Will you have _the_ kindness _to help us_ now?（いま、手伝ってもらってもよろしいですか？）
 
 #### 7-1-3-4: 形容詞
 〈抽象名詞〉を形容詞が限定しているとき、具体的な例や種類を指すために〈可算名詞〉となり、〈不定冠詞〉で前から限定することが多い。ただし、本章「可算名詞としての使い方」で述べた「純不可算名詞」のように、どんな形容詞によって限定されようとも〈可算名詞〉にはならない名詞には、不定冠詞を使わない。

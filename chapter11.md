@@ -8,13 +8,15 @@
 2. The news ( was / were ) brought to me when I was about to leave the office.
 3. In the market they were busy selling their ( good / goods ).
 4. I need some new ( sunglass / sunglasses ).
-5. Meg is wearing ( a blue pant / blue pants ) this morning.
+5. Meg was wearing ( a blue pant / blue pants ) this morning.
 ```
-tooth
- ->was【名詞の数】
- ->goods
- ->sunglasses
- ->blue pants
+
+### 11-1-1: 解答と解説：問題1
+1. 「ぼくのは虫歯はないよ。」〈a〉があるから単数。よってtooth。
+2. 「事務所を出ようとしていたそのとき、その知らせがもたらされた。」newsは〈不可算〉で、無冠詞・単数形。よってwas。
+3. 「市場では、彼らは商品を売るのに忙しかった。」売るのは「善」ではなく「商品」。よってgoods。
+4. 「新しいサングラスが必要だ。」眼鏡はつねに複数。よってsunglasses。
+5. 「メグは今朝ブルーのパンツをはいていた。」pantsはつねに複数。よってblue pants。
 
 ## 11-2: 【問題2】
 ```
@@ -45,18 +47,19 @@ tooth
 (1) clothes  (2) clothe  (3) clothing  (4) cloth
 ```
 
-4
-1 ->luggage
-4
-2
-1
-4
-2
-4
+### 11-2-1: 解答と解説：問題2
+1. 「田中さんは金山で豊橋へ列車を乗り換えた。」相互複数で(4) trains。
+2. 「ハワイから帰ってきたとき、非常に多くの手荷物を持っていたので、空港で追加料金を払わなければならなかった。」〈不可算〉よって(1) luggage。
+3. 「夏休みのあいだ、多くの村人と仲良くなった。」相互複数で(4) friends。
+4. 「ハサミが欲しいんですが。」「どんな種類のものがお好みですか？」someが〈可算〉を修飾したら複数形になる。つねに複数形にする(2) scissorsを選ぶ。
+5. 「もっとケーキを食べませんか？」「はい、そうします。」moreはmanyかmuchの比較級。manyだとすると、後には〈可算・複数形〉がくる。muchだとすると〈不可算・単数形〉がくる。(3)と(4)は〈可算・単数形〉だから消去。cakeは「切られていないホールの状態」なら〈可算〉だが、少しでも切られたなら〈不可算〉になる。ケーキを食べる場面ではしばしば"some cake"という言い方をすることを覚えておこう。(1) cakeが正解。
+6. 「彼は寛容なやつだから、すぐに彼女とまた仲良くなるだろう。」相互複数で(4) make friends。
+7. 「この国では、観光客はどこでホテルに関する情報を得られますか？」〈不可算〉で(2) information。
+8. 「スーツを作ってもらいたかったので、3ヤードの布を買いました。」「布」の意味の〈不可算名詞〉は(4) cloth。
 
 ## 11-3: 【問題3】
 ```
-次の文の名詞をすべて複数形にし、正しい文に書き換えなさい。
+次の文の名詞をすべて複数形にして書き換えなさい。
 
 1. This knife cuts well.
 2. You see a very tall chimney over there, don't you?
@@ -65,11 +68,12 @@ tooth
 5. This ox has served you well for a year.
 ```
 
- -> These knives cut well.
-  -> You see very tall chimneys over there, don't you?
-   -> The dogs look after sheep.
- -> The ladies were very kind to the children.
- -> These oxen have served you well for years.
+### 11-3-1: 解答と解説：問題3
+1. These knives cut well.
+2. You see very tall chimneys over there, don't you?　※〈母音＋y〉は -ies とならないことに注意。
+3. The dogs look after sheep.
+4. The ladies were very kind to the children.
+5. These oxen have served you well for years.
 
 ## 11-4: 【問題4】
 ```
@@ -81,18 +85,19 @@ tooth
 4. Will you have kindness to help us now?
 5. Donations to UNICEF from April 1, 2001, through March 31, 2002, totaled about 300 million yens.
 6. For the eastern half of all the tunnel, the original plan was to drill by handpower for a distance of 1.6 kilometer, but this method proved too slow.
-7. There are very strict laws prohibiting or restricting the entry into the country of certain items. If you are unsure about anything at all, declare it to Custom upon arrival.
+7. There are very strict laws prohibiting or restricting the entry into the country of certain items. If you are unsure about anything at all, declare it to custom upon arrival.
 8. A computer is able to rearrange a data in storage by sorting or combining different types of information received from a number of input units.
 ```
 
- Englishman -> Englishmen
-  ->hands
- ->the importance【ofで限定された名詞の冠詞】
- ->the kindness
- ->300 million yen
- ->kilometers
- ->(the )Customs the customs[the Customs] 税関◆単数扱い
- ->rearrange data
+### 11-4-1: 解答と解説：問題4
+1. 「私はロンドンでの滞在中に2人のイングランド人に会った。」「2人」だからEnglish_man_をEnglish_men_に変える。
+2. 「何人かの人々が互いに握手した。」相互複数なのでhandをhand_s_に変える。
+3. 「ビジネス環境における適切な態度の重要性を理解することは非常に重要だ。」importanceが〈of～〉で限定されているため、定冠詞を使ってthe importanceとする。
+4. 「いま、我々を手伝っていただいてもよろしいですか？」kindnessが〈to不定詞〉で限定されているため、定冠詞を使ってthe kindnessとする。
+5. 「ユニセフへの、2001年4月1日から2002年3月31日までの寄付金は、合計でおよそ3億円になった。」yenは〈単複同形〉なので300 million yen。
+6. 「トンネル全体の東半分を、最初の計画では1.6kmの距離までは手動で掘り進めることになっていたが、この方法では遅すぎることが判明した。」1より大きい数のときは、小数点以下でも〈複数扱い〉になる（0も複数扱いが多いため、1以外は複数、と覚えておくのもひとつの手だ）。よって1.6 kilometers。
+7. 「特定の品目の国への持ち込みを、禁止または制限する厳格な法律があります。もし何か不明な点があれば、到着時に税関に申告してください。」「税関」を意味するcustomsは、「慣習」を意味するcustomの派生語である。ここではcustomsまたはthe customsのどちらでもよい。なお〈単数扱い〉である。
+8. 「コンピュータは、膨大な数の入力装置から受け取った様々な種類の情報を並べ替えたり結合したりして、記憶装置内のデータを再構成することができる。」dataはdatumの複数形。よってrearrange data。
 
 ## 11-5: 【問題5】
 ```
@@ -106,12 +111,14 @@ tooth
 6. passer-by
 ```
 
- -> pencils【複数形】
-  -> cities
-   -> feet
-    -> women
-     -> Japanese
-      -> passers-by
+### 11-5-1: 解答と解説：問題5
+
+1. pencils
+2. cities
+3. feet
+4. women
+5. Japanese
+6. passers-by
 
 ## 11-6: 【問題6】
 ```
@@ -120,13 +127,12 @@ tooth
 1. It is bad manners to make a noise when you eat soup.
 2. We got to know each other during our college days.
 3. I changed trains for Nara at Kyoto.
-
 ```
 
 ### 11-6-1: 解答と解説
-スープを飲むときに音を立てるのは行儀がよくありません。
-私たちは大学時代に知り合いました。
-私は京都で奈良行きの電車に乗り換えました。
+1. スープを飲むときに音を立てるのは行儀がよくありません。
+2. 私たちは大学時代に知り合いました。
+3. 私は京都で奈良行きの列車に乗り換えました。
 
 ## 11-7: 【問題7】
 ```
@@ -136,6 +142,8 @@ tooth
 2. The train was so crowded that I could not move my feet at all. = There was no (   ) to move my feet as the train was so crowded.
 3. He (   ) the (   ) to tell me the way. （彼は親切にも道を教えてくれた。）
 ```
-runs[flows], the
-room
-had kindness = He was kind enough to tell me the way. 【名詞化・高レベル】
+
+### 11-7-1: 解答と解説：問題7
+1. runs[flows], the
+2. room　※「余地、空間」の意味のroomは〈不可算〉。
+3. had, kindness ※= He was kind enough to tell me the way.

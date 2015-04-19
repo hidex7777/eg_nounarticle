@@ -10,3 +10,5 @@
 * [第7節　抽象名詞 abstract nounsの用法](chapter07.md)
 * [第8節　固有名詞 proper nounsの用法](chapter08.md)
 * [第9節　問題演習：名詞1](chapter09.md)
+* [第10節　名詞の数](chapter10.md)
+* [第11節　問題演習：名詞2](chapter11.md)
