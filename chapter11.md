@@ -84,9 +84,12 @@
 3. Understanding importance of a proper attitude in a business environment is very important.
 4. Will you have kindness to help us now?
 5. Donations to UNICEF from April 1, 2001, through March 31, 2002, totaled about 300 million yens.
-6. For the eastern half of all the tunnel, the original plan was to drill by handpower for a distance of 1.6 kilometer, but this method proved too slow.
-7. There are very strict laws prohibiting or restricting the entry into the country of certain items. If you are unsure about anything at all, declare it to custom upon arrival.
-8. A computer is able to rearrange a data in storage by sorting or combining different types of information received from a number of input units.
+6. For the eastern half of all the tunnel, the original plan was to drill by handpower
+ for a distance of 1.6 kilometer, but this method proved too slow.
+7. There are very strict laws prohibiting or restricting the entry into the country of certain items.
+ If you are unsure about anything at all, declare it to custom upon arrival.
+8. A computer is able to rearrange a data in storage by sorting or combining different types
+ of information received from a number of input units.
 ```
 
 ### 11-4-1: 解答と解説：問題4
@@ -138,8 +141,10 @@
 ```
 括弧に適切な語を入れなさい。
 
-1. The river which (   ) through Paris is called (   ) Seine.（パリを流れる川はセーヌ川と呼ばれる。）
-2. The train was so crowded that I could not move my feet at all. = There was no (   ) to move my feet as the train was so crowded.
+1. The river which (   ) through Paris is called (   ) Seine.
+（パリを流れる川はセーヌ川と呼ばれる。）
+2. The train was so crowded that I could not move my feet at all.
+ = There was no (   ) to move my feet as the train was so crowded.
 3. He (   ) the (   ) to tell me the way. （彼は親切にも道を教えてくれた。）
 ```
 
