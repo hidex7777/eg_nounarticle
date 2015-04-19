@@ -47,7 +47,7 @@
 
 **注意（試験に出る）：母音字+yで終わる語にはそのまま -s をつける**：
 
-- boy → boys, monkey → monkeys
+- boy → boys, monkey → monkeys, chimney（煙突） → chimneys
 
 #### 10-2-1-4: -oで終わる名詞
 ##### 10-2-1-4-1: 子音字＋oで終わる名詞：ふつうは -s をつけるが -es をつけるものもある
@@ -82,6 +82,22 @@
 
 ## 10-4: 単複同形
 - aircraft（航空機） → aircraft, Chinese（中国人） → Chinese, corps［kɔːr］（団） → corps［kɔːrz］, craft（船舶） → craft, Japanese（日本人） → Japanese, means（手段） → means, percent → percent, series → series, sheep → sheep, species（種） → species, Swiss（スイス人） → Swiss, yen → yen
+
+注意すべき〈単複同形〉として：
+
+- dozen（ダース）, hundred, thousand, million
+
+などの〈数詞〉の桁数を表す語。これらは、
+
+- five dozen of eggs（卵5ダース）
+- one million three hundred twenty-nine thousand nine hundred ninty-nine（1,329,999）
+
+のように〈数詞〉など（some, severalなど）でその単位が複数あることを表現するときは -s をつけないが、
+
+- dozens of people（何ダースもの人＝何十もの人）
+- hundreds of people（何百もの人）
+
+などの表現では -s をつける。
 
 ## 10-5: 外来語の複数形
 ### 10-5-1: ラテン語系
@@ -150,15 +166,13 @@
 - He became famous at the beginning of the 1970's［1970s］.（彼は1970年代のはじめに有名になった。）
 
 ## 10-7: 複合名詞の複数形
-実際に複数になる名詞を複数形にする。
+実際に複数になる名詞を複数形にする。名詞がない場合は（groun-upなど）全体を1語とする。
 
 ### 10-7-1: 最後の要素を複数にするもの
-- pen-friend → pen-friends, girl friend → girl friends, grown-up（大人） → grown-ups※名詞のない場合全体を1語とする
+- pen-friend → pen-friends, girl friend → girl friends, grown-up（大人） → grown-ups
 
 ### 10-7-2: 最初の要素を複数形にするもの
 - passer-by（通行人） → passers-by, looker-on（見物人） → lookers-on
-
-※dozens of , hundreds ofなどの表現以外では単複同形
 
 ## 10-8: 複数形の特別用法
 ### 10-8-1: つねに複数形の名詞
