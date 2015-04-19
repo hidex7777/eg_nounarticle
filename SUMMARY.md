@@ -13,3 +13,5 @@
 * [第10節　名詞の数](chapter10.md)
 * [第11節　問題演習：名詞2](chapter11.md)
 * [第12節　所有格](chapter12.md)
+* [第13節　同格](chapter13.md)
+* [第14節　注意すべき名詞の用法](chapter14.md)

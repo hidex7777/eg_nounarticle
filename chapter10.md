@@ -110,7 +110,7 @@
 - ox（雄牛） → oxen, child → children
 
 ## 10-4: 単複同形
-- aircraft（航空機） → aircraft, Chinese（中国人） → Chinese, corps［kɔːr］（団） → corps［kɔːrz］, craft（船舶） → craft, Japanese（日本人） → Japanese, means（手段） → means, percent → percent, series → series, sheep → sheep, species（種） → species, Swiss（スイス人） → Swiss, yen → yen
+- aircraft（航空機） → aircraft, Chinese（中国人） → Chinese, corps［kɔːr］（団） → corps［kɔːrz］, craft（船舶） → craft, deer（シカ） → deer, Japanese（日本人） → Japanese, means（手段） → means, percent → percent, series → series, sheep → sheep, species（種） → species, Swiss（スイス人） → Swiss, yen → yen
 
 注意すべき〈単複同形〉として：
 
