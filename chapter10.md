@@ -103,7 +103,7 @@
 ### 10-5-1: ラテン語系
 #### 10-5-1-1: -us で終わる語
 ##### 10-5-1-1-1: -us［əs］→-i［ai］
-- stimulus（刺激） → stimuli, alumuns（男子卒業生） → alumni
+- stimulus（刺激） → stimuli, alumnus（男子卒業生） → alumni
 
 ##### 10-5-1-1-2: -es をつけるもの
 - apparatus（装置） → apparatuses, bonus → bonuses, status（地位） → statuses
@@ -161,7 +161,7 @@
 ## 10-6: 文字・記号などの複数形
 一般に-'sをつけるが、〈'〉はないばあいもある。
 
-- Dot your i's and cross your t's.（iには点を打ち、tには横棒をつけなさい＝最後の仕上げに細心の注意を払いなさい）
+- Dot your i's and cross your t's.（iには点を打ち、tには横棒をつけなさい。＝最後の仕上げに細心の注意を払いなさい。）
 - Your 3's look like 8's.（君の書く3は8に見える。）
 - He became famous at the beginning of the 1970's［1970s］.（彼は1970年代のはじめに有名になった。）
 
@@ -185,7 +185,6 @@
 -icsで終わる語は単数扱い。
 
 - Linguistics _is_ the science of language.（言語学は言葉の科学である。）
-
 - economics（経済学）, electronics（電子工学）, linguistics（言語学）, mathematics（数学）, physics（物理学）, politics（政治学）, statistics（統計学）
 
 #### 10-8-1-3: その他注意すべき語
