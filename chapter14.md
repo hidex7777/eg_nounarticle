@@ -46,3 +46,46 @@
 - habit「個人の習慣」：Smoking has grown into a habit with me.（タバコが癖になった。）
 - custom「社会的な慣習」：It is a custom from the Edo era.（それは江戸時代からの習慣です。）
 
+## 14-6: 仕事
+- business「事業」
+- career「経歴」
+- job「仕事」［C］：You've done a great job raising your kids.（あなたは子育てをとてもうまくやってきた。）
+- labor「骨の折れる仕事、労働」
+- occupation「職業」
+- profession「専門職／知的職業」
+- task「課された仕事」
+- toil「骨の折れる仕事」
+- trade「商売」
+- work「仕事」［U］
+
+## 14-7: 意味が紛らわしい名詞
+### 14-7-1: 群れ
+- flock「羊・山羊・鳥などの群れ」
+- herd「牛などの大きな動物の群れ」
+- school「魚などの群れ」
+
+### 14-7-2: 景色
+- view「とある場所から目に入る眺め」
+- scenery「風景」
+
+### 14-7-3: 影
+- shade「日陰」
+- shadow「影」
+
+### 14-7-4: 親族
+- nephew「おい」
+- niece「めい」
+- cousin「いとこ」
+
+### 14-7-5: 医者
+- dentist「歯科医」
+- surgeon「外科医」
+- physician「内科医」
+
+### 14-7-6: 例
+- sample「商品などの見本」
+- example「人がまねる手本／見本」
+
+### 14-7-7: 規則・規律
+- rule「競技での規則／ルール」
+- order「社会の規律／秩序」
