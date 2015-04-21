@@ -45,7 +45,8 @@
 5. Someone being served in a shop is called (   )
 (1) an employee  (2) a customer  (3) an assistant  (4) a guest
 
-6. The word "(   )" means a sum of money that is paid as a percentage of a larger sum of money which has been borrowed or invested.
+6. The word "(   )" means a sum of money that is paid as a percentage of a larger sum of money
+ which has been borrowed or invested.
 (1) debt  (2) fare  (3) fine  (4) interest
 
 7. The word "(   )" means money to be paid by people or businesses to a government for public purposes.
@@ -118,8 +119,6 @@
 18. 「電車運賃は3年間上がっていない。」乗り物の運賃は(3) fares。
 19. 「もし我々の両方が同時にそのフィットネスクラブに入会すれば、入会料はより安くなるだろう。」入会金や入場料は(2) fee。
 20. 「彼は有能な弁護士だから、たくさんの依頼人を抱えている。」専門職の依頼人や来談者は(1) clients。
-
-```
 
 ## 15-4: 問題4
 ```
