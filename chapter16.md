@@ -123,7 +123,7 @@
 
 ただし、〈不定冠詞〉のすべてがoneで言い換え可能なわけではない。あくまでも「1つ」ということが意味の中心であるばあいにのみ、言い換え可能であるだけだ。
 
-#### 16-2-2-2: 「ある（＝certain）」の意味を表す
+#### 16-2-2-2: 「ある（＝a certain）」の意味を表す
 - English is, in _a sense_, a mixture of a variety of languages.（英語とは、ある意味ではさまざまな言語の混ざったものである。）
 
 #### 16-2-2-3: 「いくらかの（＝some）、ちょっとの」の意味を表す
@@ -140,6 +140,9 @@
 #### 16-2-2-6: 序数詞を限定してanotherの意味を表す
 - Any person diagnosed with a serious medical problem should get _a second_ opinion.（深刻な健康問題があると診断された人は誰でも、セカンド・オピニオンを得るべきだ〔別のところで改めて診察を受けるべきだ〕。）
 - He tried to climb the north wall of the Eiger _a third_ time, but he failed.（彼は2回めに続いてもう一度アイガーの北壁を登ろうとしたが、失敗した。）
+
+#### 16-2-2-7: 「同じ（＝one and the same）」の意味を表す
+- Birds of a feather flock together.（同じ羽毛の鳥は群れ集まる＝類は友を呼ぶ）《諺》
 
 ### 16-2-3: 不定冠詞＋不可算名詞
 この項目の名前には注意して欲しいが、〈不可算名詞〉を述べるさいに、〈不定冠詞〉を使うことはできない。ここでは、「一般的に〈不可算〉とされている名詞を、特別な意味で使いたい」というばあいにかぎった用法を紹介する。

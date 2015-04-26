@@ -131,9 +131,11 @@ bedは「寝るための」という機能・目的を備えているため、go
 
 - Scott and I went to Chicago _in an old car_.（スコットと私は古い車でシカゴへ行った。）
 
-### 17-2-4: 食事を表す名詞
+### 17-2-4: 食事・科目・スポーツなどを表す名詞
 - I _have lunch_ at home almost every day.（私はほとんど毎日家で昼食をとっている。）
 - Where shall we _have dinner_ tonight?（今夜はどこで食事をしましょうか。）
+- I _like history_ very much.（私は歴史が大好きだ。）
+- She is a good player of _tennis_.（彼女はテニスが上手だ。）
 
 ### 17-2-5: 特殊な構文や慣用句で
 #### 17-2-5-1: 対句
