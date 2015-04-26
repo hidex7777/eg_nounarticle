@@ -211,3 +211,25 @@ _a car_は「日本製の車」であればどれでもよいことを示して�
 8-1を参照。
 
 ### 16-3-2: 定冠詞の拡大用法
+#### 16-3-2-1: 総称用法（→3-1-1-2）
+- _The dolphin_ is a marine mammal.（イルカは海の哺乳動物だ。）
+
+#### 16-3-2-2: 〈定冠詞＋単数具象名詞〉の抽象名詞的用法（→第4章）
+- The area between the Tigris and Euphrates Rivers is considered _the cradle_ of Western civilization.（チグリス川とユーフラテス川に挟まれた地域が西洋文明発祥の地と考えられている。）
+
+cradle「ゆりかご」は比喩的に「発祥地・揺籃の地」という抽象的概念を意味する。また、from _the cradle_ to _the grave_（ゆりかごから墓場まで）という決まり文句は「一生の間」という抽象的概念を意味する。
+
+#### 16-3-2-3: 〈定冠詞＋複数名詞〉で全部を表す用法
+- Please wipe _the tables_.（テーブルをふきなさい。）
+
+「そこにあるテーブルをみんな」ほどの意味。
+
+#### 16-3-2-4: 〈定冠詞＋形容詞［分詞］〉
+##### 16-3-2-4-1: 「人々」
+- _The learned_ are not necessarily scholars.（博学な人だからといって、必ずしも学者というわけではない。）
+
+##### 16-3-2-4-2: 「～なもの、～なこと」（抽象名詞的）
+- He has an eye for _the beautiful_ and is a lover of nature.（彼は美に対する鑑識眼があり、自然の愛好者だ。）
+
+### 16-3-3: 定冠詞を含む慣用表現
+#### 
