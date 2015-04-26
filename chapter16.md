@@ -172,3 +172,42 @@
 
 - I informed the group of the sad news, and there was _a silence_.（私がグループに悲しい知らせを知らせると、しーんとした。）
 
+## 16-3: 定冠詞の用法
+### 16-3-1: 定冠詞の基本的用法
+〈定冠詞〉の基本的意味は「その・例の・あの・前述の」というほどのものである。この基本的意味を理解したうえで、拡大用法や慣用表現も学習しよう。
+
+#### 16-3-1-1: 前に出た名詞を2度めから示す
+- Mary has _a car_. _The car_ is silver gray.（メアリーは車を持っている。その車は銀白色である。）
+
+#### 16-3-1-2: 文脈やその場の状況からそれとわかる名詞を示す
+##### 16-3-1-2-1: 文脈からわかるばあい
+- We found _a small cottage_. _The door_ was closed.（我々は小さな家を見つけた。ドアは閉まっていた。）
+
+##### 16-3-1-2-2: その場の状況からわかるばあい
+- It is cold in here. Please shut _the window_.（ここは寒いですね。窓を閉めてください。）
+
+#### 16-3-1-3: 常識的にただ1つしかないもの
+- Our college is in _the north_ of England.（我々のカレッジはイングランドの北部にある。）
+- _The moon_ travels around _the earth_. It taless 28 days to make its orbit.（月は地球の周りをまわる。この軌道をまわるには28日かかる。）
+
+#### 16-3-1-4: 修飾語句がついて特定のものに限定されている名詞
+##### 16-3-1-4-1: 〈of＋名詞〉や関係詞節などで限定されるばあい
+- _The capital_ of China is Beijing.（中国の首都は北京です。）
+- He was surprised at _the ignoreance_ his friend betrayed.（彼は友人のさらけ出した無知に驚いた。）
+- I am still unable to sleep because of _the tea_ I drank earlier.（さっき飲んだお茶のせいでまだ眠れない。）
+- _The_ young _Italian_ who lives next door is very kind.（隣に住んでいる若いイタリア人はとても親切です。）
+
+［注意］修飾語句がつけば必ず〈定冠詞〉が使われるわけではない。例えば：
+
+- When _a European_ buys _a car_ produced in Japan, _the car_ comes to Europe, and _the money_ goes to Japan.（ヨーロッパ人が日本製の車を買うと、車はヨーロッパに来るが、金は日本に行ってしまう。）
+
+_a car_は「日本製の車」であればどれでもよいことを示しており、冒頭の_a European_も同様にヨーロッパ人であれば誰でもよいことを示している。_the car_はそのヨーロッパ人が買った「その1台」を指しており、_the money_はその1台を買ったときの「その金」を指す。
+
+##### 16-3-1-4-2: only, first, lastなどや形容詞の最上級で修飾されるばあい
+- The cheetah is _the fastest animal_ on land. It can reach speeds of more than 100 kilometers per hour.（チーターは地上で最も速い動物である。時速は100キロメートルを上回る。）
+- Luciano is _the only dog_ she keeps, and he is also _the best friend_ that she has.（ルチアノは彼女が飼っている唯一の犬であり、彼女の無二の親友でもある。）
+
+#### 16-3-1-5: the＋固有名詞
+8-1を参照。
+
+### 16-3-2: 定冠詞の拡大用法
