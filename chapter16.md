@@ -232,4 +232,14 @@ cradle「ゆりかご」は比喩的に「発祥地・揺籃の地」という�
 - He has an eye for _the beautiful_ and is a lover of nature.（彼は美に対する鑑識眼があり、自然の愛好者だ。）
 
 ### 16-3-3: 定冠詞を含む慣用表現
-#### 
+#### 16-3-3-1: 〈catch A by the hand〉型（体の部分）
+- A police officer _caught_ him _by the arm_.（警官が彼の腕を捕まえた。）
+
+A police offecer caught his arm.でも英文としては正しいが、_caught_ him _by the arm_で「彼を捕まえた」という意味が要点になり、そのときにつかんだのが「腕」だ、と言っていることになる。このとき前置詞は、動作とそれを受ける体の部分の関係を表す：
+
+- pat A on the shoulder（Aの肩をたたく）
+- kick A in the leg（Aの脚を蹴る）
+
+#### 16-3-3-2: 〈by the pound〉型（単位）
+- Meat is sold _by the pound_, and gasoline is sold _by the gallon_.（肉はポンド単位で売られ、ガソリンはガロン単位で売られる。）
+
