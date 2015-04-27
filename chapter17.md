@@ -168,6 +168,8 @@ bedは「寝るための」という機能・目的を備えているため、go
 - by accident（偶然に）
 - by chance（偶然に）
 - by name（名前で）
+- by profession（職業は）
+- by trade（職業は、商売は）
 - for example（たとえば）
 - in fact（事実上）
 - of opinion（意見上で）
