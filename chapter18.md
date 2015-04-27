@@ -67,9 +67,12 @@
 21. I want you to become Einstein.
 22. Brush your teeth at least once day.
 23. Aunt Mary returned home after ten year's absence.
-24. During World War II, Winston Churchill, in his late sixties and early seventies, was able to work sixteen hours the day, year after year, directing the war efforts of the British Empire.
-25. Letter writing is often one of most important functions in a business. The effectiveness of letters may mean the difference between getting and not getting business.
-26. What I would like for my birthday present is new fountain pen to use with the special paper that I received by mail from Florence.
+24. During World War II, Winston Churchill, in his late sixties and early seventies,
+ was able to work sixteen hours the day, year after year, directing the war efforts of the British Empire.
+25. Letter writing is often one of most important functions in a business.
+ The effectiveness of letters may mean the difference between getting and not getting business.
+26. What I would like for my birthday present is new fountain pen to use with the special paper
+ that I received by mail from Florence.
 27. It was a such beautiful day that I decided to take a walk.
 28. A ball hit me by the face.
 29. His colleagues elected him a chairperson of the committee.
