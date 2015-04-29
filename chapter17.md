@@ -11,10 +11,10 @@
 #### 17-1-2-1: 〈such a[an]＋形容詞＋名詞〉型（such, what, half）
 - I have never seen _such a big group_ of pepple dancing.（こんなに大勢の人たちが踊っているのを見たことがない。）
 - _What an interesting picture_ this is!（これはなんておもしろい絵なんでしょう！）
-
-halfはこのタイプにも属すが、2通りの形が可能である：
-
 - The nearest train station is about _half a mile_ away from the hotel.（最寄りの鉄道の駅は、そのホテルから約半マイルのところにある。）
+
+halfはこのタイプに属すが、次の言い方も間違いとはいえない：
+
 - The nearest train station is about _a half mile_ away from the hotel.（最寄りの鉄道の駅は、そのホテルから約半マイルのところにある。）
 
 #### 17-1-2-2: 〈rather a[an]＋形容詞＋名詞〉型（rather, quite）
