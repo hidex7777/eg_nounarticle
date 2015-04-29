@@ -53,7 +53,7 @@
 
 ### 6-2-2: 容器を示す語
 - a _bottle_ of beer [milk, wine]（ビール［牛乳、ワイン］1瓶）
-- a _bowl_ rice（ご飯1杯）
+- a _bowl_ of rice（ご飯1杯）
 - a _bucketful_ of water（バケツ1杯の水）
 - a _cup_ of tea（紅茶1杯）
 - a _glass_ of milk [water]（牛乳［水］1杯）
@@ -104,16 +104,19 @@
     - The store carries men's clothing.（その店は男性用衣料品を扱っている。）※clothingで［U］衣料品、衣類
 - copper
     - Copper has been in use at least 10,000 years.（銅は少なくとも1万年は使用されてきた。）
-    - He makes a collection of coppers.（彼は銅貨を収集している。）※「銅貨、1ペニー」に意味
-- light
+    - He makes a collection of coppers.（彼は銅貨を収集している。）※「銅貨、1ペニー」の意味
+- fire
     - Fire gives light and head.（火は光と熱を出す。）
-    - Turn off all the lights.（電灯を全部消しなさい。）※「ライト、電灯」の意味
+    - The theater experienced two fires.（その劇場は2度の火事にあった。）※「火事」の意味
 - glass
     - Glass breaks easily.（ガラスは割れやすい。）
     - He handed me a glass.（彼は私にコップを手渡した。）
 - iron
     - Steel is made from iron.（鋼は鉄から作られる。）
     - An iron is a small appliance.（アイロンは小さな電化製品だ。）
+- light
+    - Fire gives light and head.（火は光と熱を出す。）
+    - Turn off all the lights.（電灯を全部消しなさい。）※「ライト、電灯」の意味
 - paper
     - This table is made of paper.（このテーブルは紙でできている。）
     - She reads an English paper.（彼女は英字新聞を読む。）※「新聞」の意味

@@ -46,12 +46,12 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 
 例文3では「美点」という意味で使われており、〈可算名詞〉である。この意味では〈複数形〉の_beauties_もしばしば使われる。
 
-1. Hard work does not always bring _success_.（勤勉努力すれば成功するとは限らない。）
+1. Hard work does not always bring _success_.（勤勉に努力すれば成功するとは限らない。）
 2. She was _a_ great _success_ as an actress.（彼女は女優として大成功した。）
 
 例文1ではsuccessを「成功」という抽象的概念として使っているのに対し、例文2では「成功」という性質を持った人・物・行為という具体的ななにか、ここでは「成功者」という意味で使っている。前の例のa beautyなどと同じ使い方である。
 
-1. He treated us with _kindness_.（彼は我々をを親切に扱ってくれた。）
+1. He treated us with _kindness_.（彼は我々を親切に扱ってくれた。）
 2. She has shown me _many kindnesses_.（彼女は私にいろいろ親切にしてくれた。）
 
 例文1ではkindnessを「親切、優しさ、思いやり」という抽象的概念（感情や状態）として使っているのに対して、例文2では「親切な行為」という具体的な行為を表す言葉として使っている。これも前の例のように、kindnessという性質を持った人・物・行為を表すケースだ。
@@ -98,7 +98,7 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 〈抽象名詞〉によっては、someやmuchなど、量や程度を示すことがある。
 
 - He has not had _much_ experience.（彼はあまり経験がない。）
-- _A little_ knowledge is a dangerous thing.（生兵法は怪我の元。）
+- _A little_ knowledge is a dangerous thing.（生兵法は怪我の元。）《諺》
 - He has _a_ knowledge of French.（彼はフランス語が少しできる。）
 
 3つめの例文の_a_は_some_（いくらか）の意味である。at _a_ distance（ちょっと離れて）やfor _a_ time（しばらくの間）なども同じである。
@@ -106,9 +106,9 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 #### 7-1-3-2: 具体的に数えるばあい
 〈物質名詞〉を数えるときに単位を用いたように、具体的に数えるときは_a piece of_や_an item of_を使う。
 
-- _A piece of_ good advice is worth a pcketful of gold.（1つのよい助言はポケットいっぱいの金の価値がある。）
+- _A piece of_ good advice is worth a pocketful of gold.（1つのよい助言はポケットいっぱいの金の価値がある。）
 - She sent us _an item of_ news.（彼女は我々にニュースを1つ届けてくれた。）
-- You gave uys _a_ wonderful _pieve of_ information.（きみは我々にすばらしい情報をくれた。）
+- You gave us _a_ wonderful _piece of_ information.（きみは我々にすばらしい情報をくれた。）
 
 #### 7-1-3-3: 定冠詞
 〈of + （代）名詞〉などで後ろから限定されたばあい、定冠詞で前から限定する。
@@ -171,7 +171,7 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 
 「彼は我々のチームにとって非常に重要だ。」という意味で：
 
-- ×He has a big importance in our team.
+- ［誤］He has a big importance in our team.
 
 とはいえない。この意味では：
 
