@@ -5,12 +5,12 @@
 
 〈複数〉の対象について考えるとき、いまの2つの思考プロセスのどちらをたどるのかといえば、当然ながら〈可算〉の思考プロセスをたどる。〈可算〉でなければそもそも〈複数〉にならないのだから。
 
-ただし、1つのものについて考えるときのように、〈不定冠詞〉（a）をまず口に出して意味的カテゴリーを規定するのではなく、〈数詞〉（two, three, four...）や〈不定冠詞相当語〉（some, anuy, no, eachなど）や〈不定の数を表す限定詞〉（many, a fewなど）を口に出して考える。だから、**英語でものを考えるということは、〈不可算〉か、〈可算〉で1つか、〈可算〉で複数かということが、まずその対象となる名詞を思い出す前に脳裏に浮かぶということ**になる。
+ただし、1つのものについて考えるときのように、〈不定冠詞〉（a）をまず口に出して意味的カテゴリーを規定するのではなく、〈数詞〉（two, three, four...）や〈不定冠詞相当語〉（some, any, no, eachなど）や〈不定の数を表す限定詞〉（many, a fewなど）を口に出して考える。だから、**英語でものを考えるということは、〈不可算〉か、〈可算〉で1つか、〈可算〉で複数かということが、まずその対象となる名詞を思い出す前に脳裏に浮かぶということ**になる。
 
 ## 10-1: 単数と複数の使い分け
 名詞の数について考えるということは、〈可算名詞〉について考えるということだ。
 
-〈単数〉と〈複数〉のどちらを使うべきか、という点で迷うことがあるとすれば、疑問か否定の文においてである。
+〈単数〉と〈複数〉のどちらを使うべきか、という点で迷うことがあるとすれば、疑問か否定の文においてである。これに〈数詞〉の問題も加えて考えてみよう。
 
 ### 10-1-1: 疑問
 〈可算名詞〉を使って「～がありますか？」と聞くようなばあい、**「あるとすれば、1つしかない」とわかっているばあいは単数形**を使い、**「あるとしても、いくつあるかわからない」ばあいや「いくつもある」とわかっているばあいは複数形**を使う。
@@ -29,9 +29,9 @@
 - Water freezes at _zero degrees_ Celsius.（水は摂氏0度で凍る。）
 
 ### 10-1-3: 小数点以下
-数詞は〈名詞〉としても機能するし、〈形容詞〉としても機能する。
+〈数詞〉は〈名詞〉としても機能するし、〈形容詞〉としても機能する。
 
-そこで問題は、主語が小数点以下を持つ数詞であるとき、もしくは小数点以下をもつ数詞が修飾する名詞であるとき、この主語は単数なのか複数なのか、ということになる。
+そこで問題は、主語が小数点以下を持つ〈数詞〉であるとき、もしくは小数点以下をもつ〈数詞〉が修飾する〈名詞〉であるとき、この主語は単数なのか複数なのか、ということになる。
 
 まず、1よりも大きい数は、複数になる。これは0.1でも0.001でも、1よりも大きいならばつねにそうである。
 
@@ -50,6 +50,7 @@
 > A yard is equal to approximately 0.91 **meter**［**meters**］.
 >
 > （1ヤードは約0.91メートルです）（『ロイヤル英文法』［98］）
+
 
 > 1以上の場合は、1.01でも**複数形**。**1以下の小数**の場合は、一般には**複数形**を用いて、0.6 inch_es_のようにいうが、論文・雑誌その他では、編集方針によるが、ほとんど半々である。そこで「**可算名詞で単数形をとるのは1だけ**」と覚えておくのも実用的である。（『実践ロイヤル』［345］）
 
@@ -94,7 +95,7 @@
 
 #### 10-2-1-5: -f, -fe で終わる名詞
 ##### 10-2-1-5-1: 原則として -f, -fe を -ves に変える
-- half → halves, knife → kinives, leaf → leave, life → lives
+- half → halves, knife → kinives, leaf → leaves, life → lives
 
 ##### 10-2-1-5-2: そのまま -s をつけるもの
 - roof → roofs, belief（信念） → beliefs, chief（上司） → chiefs, cliff（崖） → cliffs, cuff（袖口） → cuffs, gulf（湾） → gulfs, grief（悲しみ） → griefs, proof（証拠） → proofs, relief（浮き彫り） → reliefs, safe（金庫） → safes
@@ -138,10 +139,10 @@
 - apparatus（装置） → apparatuses, bonus → bonuses, status（地位） → statuses
 
 ##### 10-5-1-1-3: -us → -iの変化と -es をつける両方あるもの
-- focus（焦点） → foci［fousai］/focuses, radius（半径） → radii［reidiai］/raiuses
+- focus（焦点） → foci［fousai］/focuses, radius（半径） → radii［reidiai］/radiuses
 
 #### 10-5-1-2: -a で終わる語
-##### 10-5-1-2-1: -a［ə］→-ae［iː]
+##### 10-5-1-2-1: -a［ə］→-ae［iː］
 - larva（幼虫） → larvae, alumna（女子卒業生） → alumnae
 
 ##### 10-5-1-2-2: -s をつけるもの
@@ -155,7 +156,7 @@
 - bacterium（バクテリア） → bacteria, datum（データ） → data, erratum（誤植） → errata（正誤表）
 
 ##### 10-5-1-3-2: -s をつけるもの
-- album → albums, nuseum → museums, forum（討議会） → forums, stadium（スタジアム） → statums
+- album → albums, museum → museums, forum（討議会） → forums, stadium（スタジアム） → stadiums
 
 ##### 10-5-1-3-3: -um → -aの変化と -s をつける両方あるもの
 - curriculum（教育課程） → curricula/curriculums, mudium（媒介物） → media/mediums, memorandum（メモ） → memoranda/memorandums
@@ -165,7 +166,7 @@
 - codex（古写本） → codices
 
 ##### 10-5-1-4-2: -ex［eks］, -ix → -icesの変化と -es をつける両方あるもの
-- index（指標） → indices/indexres, appendix（付録） → appendices/appendixes
+- index（指標） → indices/indexes, appendix（付録） → appendices/appendixes
 
 ### 10-5-2: ギリシャ語系
 #### 10-5-2-1: -is［is］で終わる語：語尾が-es［iːz］に変化
@@ -195,7 +196,7 @@
 - He became famous at the beginning of the 1970's［1970s］.（彼は1970年代のはじめに有名になった。）
 
 ## 10-7: 複合名詞の複数形
-実際に複数になる名詞を複数形にする。名詞がない場合は（groun-upなど）全体を1語とする。
+実際に複数になる名詞を複数形にする。名詞がないばあいは（grown-upなど）全体を1語とする。
 
 ### 10-7-1: 最後の要素を複数にするもの
 - pen-friend → pen-friends, girl friend → girl friends, grown-up（大人） → grown-ups
@@ -227,14 +228,14 @@
 - amends（償い）, barracks（兵舎）, headquarters（本部）, means（手段）, customs（関税、税関）
 
 ### 10-8-2: 単数形と複数形で異なる意味をもつ名詞
-#### 10-8-2-1: 単数形の意味で複数形の場合にも使うもの
+#### 10-8-2-1: 単数形の意味で複数形のばあいにも使うもの
 - arm/arms（腕／武器）, ash/ashes（灰／遺骨）, color/colors（色／軍旗）, custom/customs（習慣／税関）, day/days（日／時代）, effect/effects（効果／動産）, letter/letters（文字／文学）, manner/manners（方法／作法）, quarter/quarters（4分の1/地域）, spectacle/spectacles（光景／眼鏡）
 
 #### 10-8-2-2: 元の語が不可算名詞のため、単数形の意味で複数形では使わないもの
-- advice/advices（助言／通知）, air/airs（空気／気取り）, force/forces（力／軍隊）, glass/glasses（ガラス／眼鏡）, good/goods（善／商品）, pain/pains（苦痛／骨折り）, ruin/ruins（破滅／遺跡）, sand/sands（砂／砂浜、砂漠）, spirit/spirits（精神／気分）, work/works（仕事／工場）
+- advice/advices（助言／通知）, air/airs（空気／気取り）, regard/regards（尊敬／よろしくというあいさつ）, force/forces（力／軍隊）, glass/glasses（ガラス／眼鏡）, good/goods（善／商品）, pain/pains（苦痛／骨折り）, ruin/ruins（破滅／遺跡）, sand/sands（砂／砂浜、砂漠）, spirit/spirits（精神／気分）, work/works（仕事／工場）
 
 ### 10-8-3: 相互複数
-相手がいたり、同種のものの交換などのばあい、複数形を使う場合がある。**試験で問われやすい**。
+相手がいたり、同種のものの交換などのばあい、複数形を使うばあいがある。**試験で問われやすい**。
 
 - No one _shook hands with_ the same person twice.（誰も同じ相手と2回握手をすることはなかった。）
 - She _made friends with_ the little girl.（彼女はその少女と仲良くなった。）
