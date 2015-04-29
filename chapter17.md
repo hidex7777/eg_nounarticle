@@ -3,6 +3,7 @@
 ### 17-1-1: 冠詞のふつうの位置
 冠詞はすべての形容詞の前に位置する。形容詞を修飾する副詞があるときは、〈冠詞＋副詞＋形容詞＋名詞〉の語順になる。
 
+- He is _a very tall old_ man.（彼は非常に背の高い老人だ。）
 - This is _a very expensive_ coat.（これは非常に高価なコートだ。）
 - You gave me _the very best_ advice.（あなたは最高の助言をしてくれた。）
 
@@ -13,14 +14,14 @@
 
 halfはこのタイプにも属すが、2通りの形が可能である：
 
-- The nearest train station is about _a half mile_ away from the hotel.（最寄りの鉄道の駅は、そのホテルから約半マイルのところにある。）
 - The nearest train station is about _half a mile_ away from the hotel.（最寄りの鉄道の駅は、そのホテルから約半マイルのところにある。）
+- The nearest train station is about _a half mile_ away from the hotel.（最寄りの鉄道の駅は、そのホテルから約半マイルのところにある。）
 
 #### 17-1-2-2: 〈rather a[an]＋形容詞＋名詞〉型（rather, quite）
 ratherは〈a rather＋形容詞＋名詞〉がふつうだが、くだけた言い方では〈rather a[an]＋形容詞＋名詞〉になることもある。
 
-- It is _rather a difficult task_ to find a good book for such a purpose.（そのような目的に合う良い本を見つけるのはちょっと難しい。）
 - It is _a rather difficult task_ to find a good book for such a purpose.（そのような目的に合う良い本を見つけるのはちょっと難しい。）
+- It is _rather a difficult task_ to find a good book for such a purpose.（そのような目的に合う良い本を見つけるのはちょっと難しい。）
 
 quiteは、1音節の形容詞、または強勢が第1音節にある形容詞のばあいには〈quite a～〉がふつう。強勢が後ろにある形容詞のばあいにはどちらでもよい。
 
@@ -28,11 +29,14 @@ quiteは、1音節の形容詞、または強勢が第1音節にある形容詞�
 
 #### 17-1-2-3: 〈so＋形容詞＋a[an]＋名詞〉型（as, so, how, tooなど）
 - It was _so strange a story_ that few people believed it.（あまりにも奇妙な話だったので、それを信じる人はほとんどいなかった。）
-- "Mr. Lincoln was _as brave a man_ as ever lived," said Greene.（「リンカーンは世にもまれな勇敢な男だった」とグリーンはいった。）
-- That desert is _too hot a place_ to live.（その砂漠は暮らすには暑すぎる。）
+- He is _as great a musician_ as ever lived.（彼は古来まれな大音楽家だ。）
+- _How big an apartment_ do you want?（どのくらいの大きさのアパートが欲しいのですか？）
+- It's _too small a hat_ for you.（その帽子は小さすぎて君にはかぶれないよ。）
 
 #### 17-1-2-4: 〈all the＋（形容詞）＋名詞〉型（all, both, double, twiceなど）
+- We walked _all the way_.（我々はずっと歩き通しだ。）
 - _All the members_ of this club must attend the meeting.（このクラブの部員は全員、会議に出席しなければならない。）
+- _Both the boys_ shouted.（少年は2人とも大声を出した。）
 - This book will sell for _double the price_ in Japan.（この本は日本では2倍の価格でも売れる。）
 
 ### 17-1-3: 冠詞の反復
@@ -40,7 +44,7 @@ quiteは、1音節の形容詞、または強勢が第1音節にある形容詞�
 
 #### 17-1-3-1: 2つの名詞・形容詞
 ##### 17-1-3-1-1: 同一物［人］を指すときは、最初に1つだけ
-- William Scoresby was _a scholar and explorer_.（ウィリアム・スコアズビーは学者で探検家だった。）
+- He was _a scholar and explorer_.（彼は学者で探検家だった。）
 - There is _a red and white_ flower in the vase.（花瓶に紅白まだらの花が1本挿してある。）
 
 ##### 17-1-3-1-2: 別々のもの［人］を指すときは、それぞれに
@@ -50,6 +54,7 @@ quiteは、1音節の形容詞、または強勢が第1音節にある形容詞�
 #### 17-1-3-2: 2つで1組になっているものは1つだけ
 - I want to buy _a cup and saucer_.（受け皿付きの茶碗を買いたい。）
 - I want to buy _five cups and saucers_.（受け皿付きの茶碗を5セット買いたい。）
+- _the bread and butter_（バターつきパン）
 
 ## 17-2: 無冠詞と冠詞の省略
 原則として、〈可算名詞〉の〈単数形〉には〈冠詞〉が必要である。しかし、省略されるばあいもある。**試験問題として頻出である**ためしっかりおさえておきたい。
@@ -90,11 +95,13 @@ bedは「寝るための」という機能・目的を備えているため、go
 - We don't have to _go to school_ on Sundays.（日曜日には学校に行かなくてよい。）
 - In America about half of the Christian women _go to church_ at least once a week.（米国ではクリスチャンの女性の約半数は、週に少なくとも1回は礼拝に行く。）
 
+- after school（放課後）
+- appear in court（出廷する）
+- be at table（食事中で）
+- be in bed（寝ている）
 - be in class（授業中で）
 - be in prison（服役中で）
-- be at table（食事中で）
 - go to college（大学に通う）
-- appear in court（出廷する）
 - go to sea（船乗りになる；出帆する）
 
 #### 17-2-2-2: その他冠詞に注意すべき建物や場所
@@ -125,10 +132,10 @@ bedは「寝るための」という機能・目的を備えているため、go
 - by plane（空路で）
 - by sea（海路で）
 - by ship（船で）
-- by subway（地下鉄で）
+- by subway（地下鉄で）《米》
 - by telephone（電話で）
 - by train（電車で）
-- by tube（地下鉄で）
+- by tube（地下鉄で）《英》
 
 ただし、乗り物を具体的に示したいときは、〈冠詞〉を省略しない：
 
