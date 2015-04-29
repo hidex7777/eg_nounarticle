@@ -195,7 +195,7 @@
 - He became famous at the beginning of the 1970's［1970s］.（彼は1970年代のはじめに有名になった。）
 
 ## 10-7: 複合名詞の複数形
-実際に複数になる名詞を複数形にする。名詞がない場合は（groun-upなど）全体を1語とする。
+実際に複数になる名詞を複数形にする。名詞がないばあいは（groun-upなど）全体を1語とする。
 
 ### 10-7-1: 最後の要素を複数にするもの
 - pen-friend → pen-friends, girl friend → girl friends, grown-up（大人） → grown-ups
@@ -227,14 +227,14 @@
 - amends（償い）, barracks（兵舎）, headquarters（本部）, means（手段）, customs（関税、税関）
 
 ### 10-8-2: 単数形と複数形で異なる意味をもつ名詞
-#### 10-8-2-1: 単数形の意味で複数形の場合にも使うもの
+#### 10-8-2-1: 単数形の意味で複数形のばあいにも使うもの
 - arm/arms（腕／武器）, ash/ashes（灰／遺骨）, color/colors（色／軍旗）, custom/customs（習慣／税関）, day/days（日／時代）, effect/effects（効果／動産）, letter/letters（文字／文学）, manner/manners（方法／作法）, quarter/quarters（4分の1/地域）, spectacle/spectacles（光景／眼鏡）
 
 #### 10-8-2-2: 元の語が不可算名詞のため、単数形の意味で複数形では使わないもの
 - advice/advices（助言／通知）, air/airs（空気／気取り）, force/forces（力／軍隊）, glass/glasses（ガラス／眼鏡）, good/goods（善／商品）, pain/pains（苦痛／骨折り）, ruin/ruins（破滅／遺跡）, sand/sands（砂／砂浜、砂漠）, spirit/spirits（精神／気分）, work/works（仕事／工場）
 
 ### 10-8-3: 相互複数
-相手がいたり、同種のものの交換などのばあい、複数形を使う場合がある。**試験で問われやすい**。
+相手がいたり、同種のものの交換などのばあい、複数形を使うばあいがある。**試験で問われやすい**。
 
 - No one _shook hands with_ the same person twice.（誰も同じ相手と2回握手をすることはなかった。）
 - She _made friends with_ the little girl.（彼女はその少女と仲良くなった。）

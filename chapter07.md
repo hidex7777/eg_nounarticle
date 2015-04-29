@@ -81,16 +81,16 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 
 上記のうち、「不定か特定かを表す限定詞」は2つ続けて用いることはできない。
 
-たとえば、「この私のカメラ」というときに、（×）this my cameraと言うことはできないから、this camera of mineということになる。
+たとえば、「この私のカメラ」というときに、（×）this my cameraということはできないから、this camera of mineということになる。
 
-また、〈不定・特定〉と〈数量〉は続けて使うことができるから、all the booksとかboth my booksのように言うことはできる。このときは語順が重要で、（×）the all booksとか（×）my both booksなどと言うことはできない。
+また、〈不定・特定〉と〈数量〉は続けて使うことができるから、all the booksとかboth my booksのようにいうことはできる。このときは語順が重要で、（×）the all booksとか（×）my both booksなどということはできない。
 
 〈限定詞〉に似た文法用語に**〈冠詞相当語〉**というものがある。これはその名の通り、〈冠詞〉に相当する語であるから、さらに〈冠詞〉で名詞を限定する必要はないし、することもできない。
 
 |種類          |例                                                       |
 |--------------|---------------------------------------------------------|
 |不定冠詞相当語|one, another, some, any, each, every, either, neither, no|
-|定冠詞相当語  |指示代名詞（this, these, that, those）、所有格人称代名詞（my, your, his, her, its, our, their）、疑問代名詞（名詞を修飾する場合）、関係代名詞（名詞を修飾する場合）など|
+|定冠詞相当語  |指示代名詞（this, these, that, those）、所有格人称代名詞（my, your, his, her, its, our, their）、疑問代名詞（名詞を修飾するばあい）、関係代名詞（名詞を修飾するばあい）など|
 
 〈冠詞相当語〉と〈限定詞〉には重なり合う部分があることがわかる。あまり厳密に覚えようとする必要はないし、混乱するだけだろうから、ここでは、**〈限定詞〉と〈冠詞相当語〉には重なり合う部分がかなりあるが、そっくりそのまま同じ意味ではない**、とだけ考えておけばよい。
 
@@ -147,7 +147,7 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 - We did it _with difficulty_.（我々は苦労して〔かろうじて〕それを成し遂げた。）※＝barely
 - It was done _with ease_.（楽々とできた。）※＝easily
 - She showed me the way to the station _with kindness_.（彼女は親切にも駅への道を教えてくれた。）※＝kindly
-- The parrot would say _with rapidity_.（そのオウムは早口で言ったものだ。）※＝repidly
+- The parrot would say _with rapidity_.（そのオウムは早口でいったものだ。）※＝repidly
 
 #### 7-1-4-3: その他
 - I live _at leisure_.（私はのんびり〔ゆっくり〕暮らします。）※＝leisurely
@@ -157,7 +157,7 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 - I drank something _by mistake_.（まちがって何かを飲んでしまった。）※＝mistakenly
 - I was watching _in excitement_.（私はハラハラして見ていた。）※＝excitedly
 - They parted _in anger_.（彼らは怒って別れた。）※＝angrily
-- Let's go _in haste_!（急いで行こう！）※＝hastily
+- Let's go _in haste_!（急いでいこう！）※＝hastily
 - There are no problems _in particular_.（特に問題はない。）※＝particularly
 - That doesn't make it _in time_.（それは間に合わない。）
 - He made a mistake _on purpose_.（彼は故意に間違えた。）※＝intentinally
@@ -173,8 +173,8 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 
 - ×He has a big importance in our team.
 
-とは言えない。この意味では：
+とはいえない。この意味では：
 
 - He is of great importance in our team.※inの代わりにtoでも可。
 
-のように言う。
+のようにいう。

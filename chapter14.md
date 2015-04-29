@@ -4,7 +4,7 @@
 本節では、試験に「語法問題」としてよく出題される、使い分けに注意すべき名詞についてまとめておこう。
 
 ## 14-1: 客
-日本語でも「客」を意味する言葉は「客」「客人」「お客」「お客様」「顧客」「クライアント」「ユーザー」など文脈によってさまざまに使い分けるし、医者なら「患者」と言うだろう。同様に、英語でも、何の客なのかによって、さまざまな名詞を使い分けている。
+日本語でも「客」を意味する言葉は「客」「客人」「お客」「お客様」「顧客」「クライアント」「ユーザー」など文脈によってさまざまに使い分けるし、医者なら「患者」というだろう。同様に、英語でも、何の客なのかによって、さまざまな名詞を使い分けている。
 
 - audience「（劇場などの）観客／聴衆」：There was a large audience.（観客は多数だった。）
 - client「（弁護士などへの）依頼人」：Being an able lawyer, he has a lot of client.（彼は有能な弁護士であるため、依頼人が多数いる。）
@@ -22,7 +22,7 @@
 - charge「サービスに対して支払う料金／（電気・ガスなどの）公共料金／使用料」：There is a charge for delivery.（配達は有料です。）
 - check「小切手」：I wrote him a check for a hundred dollars.（彼に100ドルの小切手を切った。）
 - commission「手数料／歩合」：They get a commission of 10 percent on sales.（彼らは売上に対して1割の手数料を取る。）
-- cost「経費／費用」：We bought cattle feed at a reasonably low cost.（我々はある程度低いコストで牛の餌を購入した。）
+- cost「経費／費用」：We bought cattle feed at a reasonably low cost.（我々はあるていど低いコストで牛の餌を購入した。）
 - fare「乗り物の運賃」：The bus fare was raised.（バス代が上がった。）
 - fee「専門職に対して支払う料金／受験・入場・入会のための料金」：Please pay the membership fee in advance.（会費は前納してください。）
 - fine「罰金」：He got off with a $100 fine for speeding.（彼はスピード違反をしたが100ドルの罰金で放免になった。）

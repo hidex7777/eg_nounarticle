@@ -22,13 +22,13 @@ ratherは〈a rather＋形容詞＋名詞〉がふつうだが、くだけた言
 - It is _rather a difficult task_ to find a good book for such a purpose.（そのような目的に合う良い本を見つけるのはちょっと難しい。）
 - It is _a rather difficult task_ to find a good book for such a purpose.（そのような目的に合う良い本を見つけるのはちょっと難しい。）
 
-quiteは、1音節の形容詞、または強勢が第1音節にある形容詞の場合には〈quite a～〉がふつう。強勢が後ろにある形容詞のばあいにはどちらでもよい。
+quiteは、1音節の形容詞、または強勢が第1音節にある形容詞のばあいには〈quite a～〉がふつう。強勢が後ろにある形容詞のばあいにはどちらでもよい。
 
 - Cleopatra was _quite an interesting figure_ in history.（クレオパトラは歴史上まったく興味深い人物だ。）
 
 #### 17-1-2-3: 〈so＋形容詞＋a[an]＋名詞〉型（as, so, how, tooなど）
 - It was _so strange a story_ that few people believed it.（あまりにも奇妙な話だったので、それを信じる人はほとんどいなかった。）
-- "Mr. Lincoln was _as brave a man_ as ever lived," said Greene.（「リンカーンは世にもまれな勇敢な男だった」とグリーンは言った。）
+- "Mr. Lincoln was _as brave a man_ as ever lived," said Greene.（「リンカーンは世にもまれな勇敢な男だった」とグリーンはいった。）
 - That desert is _too hot a place_ to live.（その砂漠は暮らすには暑すぎる。）
 
 #### 17-1-2-4: 〈all the＋（形容詞）＋名詞〉型（all, both, double, twiceなど）
