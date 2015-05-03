@@ -47,6 +47,18 @@
 #### 12-2-1-3: 人間の活動に関係の深い表現
 - his journey's end（彼の旅路の果て）, my life's aim（我が人生の目的）, love's spirit（愛の心）
 
+次の例文は、3つとも「文法的には」正しい：
+
+1. It is ten minutes' walk to the station.
+2. It is a ten-minute walk to the station.
+3. It is a ten minutes' walk to the station.
+
+この3つとも、辞書には正しい英語の語法として記載されている。ところが、ネイティブには例文3は奇妙に聞こえることが多い。「文法的には」例文3の〈不定冠詞〉（a）はwalkを修飾する〈限定詞〉である。が、「〈不定冠詞〉は〈単数形〉を修飾する」という先入観が強いため、ten minutes'と〈複数形〉を続けると、まるで〈不定冠詞〉（a）がminutes'を修飾しているように聞こえてしまう。
+
+例文2はten-minuteでひとつの〈形容詞〉として働くため、たんなる〈a＋形容詞＋名詞〉の形である。
+
+試験ではいずれでもOKかもしれないが、例文1か例文2で書いたり話したりするのが無難である。
+
 ## 12-3: 所有格の意味
 ### 12-3-1: 所有・所属
 - my uncle's tennis club（私のおじのテニスクラブ）, my son's school（私の息子の学校）
