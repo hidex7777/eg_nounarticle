@@ -1,4 +1,4 @@
-# 第9節　問題演習：名詞1
+# 第9節　問題演習：〈名詞〉1
 
 ## 9-1: 【問題1】
 ```
@@ -139,7 +139,7 @@
 5. 「彼らはものすごい設備を整えようとしている。」〈不可算〉なので(3)。
 6. 「私はそのスキャンダルに関するニュースはたくさん聞いてきたので、うんざりしている。」「うんざり」ということはたくさん聞いたとわかる。〈不可算〉なので(4)。
 7. 「住宅購入について、アドバイスをくれませんか？」〈不可算〉なので(2)。
-8. 「今晩は、やらなきゃならない仕事があるんだ。」「仕事、労働」に意味では〈不可算〉よって(3)。
+8. 「今晩は、やらなきゃならない仕事があるんだ。」「仕事、労働」の意味では〈不可算〉よって(3)。
 9. 「アユミは昨日、パン1枚とサラダをいくらかしか食べなかった。」パンの数え方は様々だがあてはまるのはsliceのみ。(4)。
 10. 「リストを作りたいんだ。紙が1枚必要だ。」〈不可算〉なので(4)。
 11. 「あなたの部屋から、いくつの家具を運びださなきゃならないの？」furnitureの数え方は、a piece ofのpieceという〈単位〉を数える。よって(2)。
@@ -179,12 +179,12 @@
 2. I felt that she had given me a good advice.
 3. Our guns all have a safety device.
 4. A Mr. Harris has been waiting for about an hour.
-6. All the cattles are raised in a clean and healthy environment.
-7. More than 25 million people visit the Central Park each year.
-8. The more information a victim provides to the police, the better the police is able to help.
-9. If you are unsure about the steps to backup the registry, please refer to the "Backup Procedures" section
+5. All the cattles are raised in a clean and healthy environment.
+6. More than 25 million people visit the Central Park each year.
+7. The more information a victim provides to the police, the better the police is able to help.
+8. If you are unsure about the steps to backup the registry, please refer to the "Backup Procedures" section
  in the operation manual for more informations.
-10. The carry-on baggages of all passengers must be inspected by airline officials before boarding.
+9. The carry-on baggages of all passengers must be inspected by airline officials before boarding.
 ```
 
 ### 9-5-1: 解答と解説：問題5
@@ -192,11 +192,11 @@
 2. 〈不可算〉なのでgood adviceかa piece of advice。
 3. equipment（装置）は〈不可算〉だがdevice（装置）は〈可算〉。よって○。
 4. 「ハリスさんとかいう人」という意味。よって○。
-6. cattleは〈不可算〉で〈複数扱い〉なのでall the cattle。a＋形容詞＋environmentで「～環境」というコロケーション。
-7. 公園には不定冠詞を用いない。よってCentral Park。
-8. policeは〈つねに複数扱い〉よってthe police are able～。
-9. information。
-10. baggage。
+5. cattleは〈不可算〉で〈複数扱い〉なのでall the cattle。a＋形容詞＋environmentで「～環境」というコロケーション。
+6. 公園には不定冠詞を用いない。よってCentral Park。
+7. policeは〈つねに複数扱い〉よってthe police are able～。
+8. information。
+9. baggage。
 
 ## 9-6: 【問題6】
 ```
