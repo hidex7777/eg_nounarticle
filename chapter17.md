@@ -13,7 +13,7 @@
 - _What an interesting picture_ this is!（これはなんておもしろい絵なんでしょう！）
 - The nearest train station is about _half a mile_ away from the hotel.（最寄りの鉄道の駅は、そのホテルから約半マイルのところにある。）
 
-halfはこのタイプに属すが、次の言い方も間違いとはいえない：
+halfはこのタイプに属すが、次の言い方も間違いではない：
 
 - The nearest train station is about _a half mile_ away from the hotel.（最寄りの鉄道の駅は、そのホテルから約半マイルのところにある。）
 
@@ -74,10 +74,10 @@ quiteは、1音節の〈形容詞〉、または強勢が第1音節にある〈�
 - _Dr. Darling, _Professor_ of Linguistics at Harvard University, wrote this book.（ハーバード大学の言語学教授、ダーリング博士がこの本を書いた。）
 
 #### 17-2-1-3: 補語として用いられるばあい
-##### 17-2-1-3-1: 主格補語
+##### 17-2-1-3-1: 〈主格補語〉
 - Tommy Lasorda was _manager_ of the U.S. baseball team in the 2000 Olympics.（トミー・ラソーダは2000年のオリンピックで米国野球チームの監督だった。）
 
-##### 17-2-1-3-2: 目的格補語
+##### 17-2-1-3-2: 〈目的格補語〉
 - I can't believe that they elected me _presicent_ of the PTA.（みんなが私をPTAの会長に選んだなんて信じられない。）
 
 #### 17-2-1-4: 役割を表すasの次で
