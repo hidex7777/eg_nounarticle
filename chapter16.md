@@ -30,7 +30,7 @@
 
 ## 16-1: 〈冠詞〉の種類と発音
 ### 16-1-1: 〈不定冠詞〉 indefinite article
-〈不定冠詞〉anは、oneと語源が同じである、ということはすでに述べた（2-1-2）。「1つの」という意味である。歴史的にnが脱落して、aだけで済ませるようになった。〈名詞〉が指すものが不特定であることを意味し、原則として〈可算名詞〉の〈単数形〉との結びつきが強い。
+〈不定冠詞〉anは、oneと語源が同じである、ということはすでに述べた（[2-1-2](chapter02.md)）。「1つの」という意味である。歴史的にnが脱落して、aだけで済ませるようになった。〈名詞〉が指すものが〈不特定〉であることを意味し、原則として〈可算名詞〉の〈単数形〉との結びつきが強い。
 
 #### 16-1-1-1: aとanの使い分け
 ##### 16-1-1-1-1: 発音が子音（半母音を含む）ではじまる語の前ではa
@@ -57,7 +57,7 @@
 
 - the cat, the cats, the ice
 
-子音、半母音ではじまる語と結びつくばあいは［ðə］になるのがふつう。
+子音・半母音ではじまる語と結びつくばあいは［ðə］になるのがふつう。
 
 - the ［ðə］ book, the plane, the universe
 
@@ -69,11 +69,11 @@
 ### 16-1-3: 〈冠詞相当語〉
 〈冠詞相当語〉は〈冠詞〉に相当する機能を果たす語であるため、これらが〈名詞〉の前に使われているとき、〈冠詞〉を同時に使うことはできない（〈数詞〉の例外については後述する）。
 
-1. 〈指示代名詞〉　　　　　this, that, these, those
-2. 〈不定代名詞〉　　　　　some, any, no, every, each, another, either, neither
+1. 〈指示代名詞〉　　　　　　　this, that, these, those
+2. 〈不定代名詞〉　　　　　　　some, any, no, every, each, another, either, neither
 3. 〈人称代名詞〉の〈所有格〉　my, your, his, her, its, our, their
-4. 〈疑問代名詞〉　　　　　whose, which
-5. 〈数詞〉　　　　　　　　one, tho, three...など
+4. 〈疑問代名詞〉　　　　　　　whose, which
+5. 〈数詞〉　　　　　　　　　　one, tho, three...など
 6. 〈固有名詞〉の〈所有格〉　　Jack's...など
 
 〈数詞〉は〈不定冠詞〉とともに用いることができない。〈不定冠詞〉にはそもそも「1つの」という意味があるからだ。〈定冠詞〉とともに使うことはある。語順は、［誤］three the pigsではなく［正］the three pigsとなる。
@@ -110,50 +110,61 @@
 この例文のばあいは、話し手は「どの本でもいいから任意の1冊」という意味で述べており、このようなばあいも〈不特定〉ということになる。同様に〈複数〉にするときは_some books_となる。
 
 #### 16-2-1-2: 初めて話題に上がる〈可算名詞〉を導入する
-- Long, long ago, there lived _a fisherman_ in _a_ small _village_.（昔々、小さな村に漁師が住んでいました。）
-- Once upon a time, there was _a tiger_ who lived in _a cave_.（昔々、［とある］洞窟に住むトラがいました。）
+1. Long, long ago, there lived _a fisherman_ in _a_ small _village_.（昔々、小さな村に漁師が住んでいました。）
+2.  Once upon a time, there was _a tiger_ who lived in _a cave_.（昔々、［とある］洞窟に住むトラがいました。）
 
-いわゆる**「初出のa」**とよばれる〈不定冠詞〉の用法であり、おそらく日本人が初めて学ぶ〈倒置〉表現である"There be"構文でおなじみの使用法だ。"There be"構文では、主語に〈特定〉の語を使うことができない。だから［誤］There is my shool on the hill.と述べることはできない（myは〈定冠詞相当語〉）。［正］I am a student. My school is on the hill.といったり［正］There is a school on the hill. I go there.のように、あらかじめ〈不定冠詞〉で聞き手（読み手）に初出の情報を提供してから〈定冠詞〉（や〈定冠詞相当語〉）で〈特定〉する必要がある。
+いわゆる**「初出のa」**とよばれる〈不定冠詞〉の用法であり、おそらく日本人が初めて学ぶ〈倒置〉表現である"There be"構文でおなじみの使用法だ。
 
-上の例文では、話し手（書き手）はある特定のトラについて、これから話題にしたいと思っている。この（聞き手にとって〈不特定〉の）トラを「そのトラ」に昇格させるためには、まず「あるトラ」の存在を聞き手（読み手）に紹介しなければならない。この例文によって、聞き手（読み手）にとって、「どのトラなのか」が明らかになっているため、2文め以降は_the tiger_ということができる。
+"There be"構文では、主語に〈特定〉の語を使うことができない。だから［誤］There is my shool on the hill.と述べることはできない（myは〈定冠詞相当語〉）。［正］I am a student. My school is on the hill.といったり［正］There is a school on the hill. I go there.のように、あらかじめ〈不定冠詞〉で聞き手（読み手）に初出の情報を提供してから〈定冠詞〉（や〈定冠詞相当語〉）で〈特定〉する必要がある。
+
+上の例文2では、話し手（書き手）はある特定のトラについて、これから話題にしたいと思っている。この（聞き手にとって〈不特定〉の）トラを「そのトラ」に昇格させるためには、まず「あるトラ」の存在を聞き手（読み手）に紹介しなければならない。この例文によって、聞き手（読み手）にとって、「どのトラなのか」が明らかになっているため、2文め以降は_the tiger_ということができる。
+
+英語では、**初出の情報を、可能な限り後に述べる**傾向がある。"There be"構文も、この傾向「のために」存在すると言っても過言ではない、ぐらいに考えておこう。
 
 ### 16-2-2: 〈不定冠詞〉の拡大用法
 #### 16-2-2-1: 「1つ（＝one）」であることを示す
-- Rome was not built in _a day_.（ローマは1日にして成らず。）《諺》
-- I stayed in Paris for _a week_.（私はパリに1週間滞在しました。）
+1. Rome was not built in _a day_.（ローマは1日にして成らず。）《諺》
+2. I stayed in Paris for _a week_.（私はパリに1週間滞在しました。）
 
-〈不定冠詞〉の語源はoneと同じであると述べた。だから、この例文では_one week_と言い換えることができる。
+〈不定冠詞〉の語源はoneと同じであると述べた。だから、例文1では_one week_と言い換えることができる。
 
 ただし、〈不定冠詞〉のすべてがoneで言い換え可能なわけではない。あくまでも「1つ」ということが意味の中心であるばあいにのみ、言い換え可能であるだけだ。
 
 #### 16-2-2-2: 「ある（＝a certain）」の意味を表す
-- He came back on _a Christmas_.（彼はある年のクリスマスに帰ってきた。）
-- English is, in _a sense_, a mixture of a variety of languages.（英語とは、ある意味ではさまざまな言語の混ざったものである。）
+1. He came back on _a Christmas_.（彼はある年のクリスマスに帰ってきた。）
+2. English is, in _a sense_, a mixture of a variety of languages.（英語とは、ある意味ではさまざまな言語の混ざったものである。）
 
 #### 16-2-2-3: 「いくらかの（＝some）、ちょっとの」の意味を表す
-- She thought for _a while_.（彼女はしばらくのあいだ考えていた。）
-- Whales looks almost black when seen at _a distance_ in the water.（クジラは水中でちょっと離れたところで見ると、ほとんど黒く見える。）
+1. She thought for _a while_.（彼女はしばらくのあいだ考えていた。）
+2. Whales looks almost black when seen at _a distance_ in the water.（クジラは水中でちょっと離れたところで見ると、ほとんど黒く見える。）
 
 #### 16-2-2-4: 「～につき（＝per）」の意味を表す
-- We have five English classes _a week_.（英語の授業が週に5回ある。）
-- Take this medicine twice _a day_.（この薬を1日2回飲んでください。）
+1. We have five English classes _a week_.（英語の授業が週に5回ある。）
+2. Take this medicine twice _a day_.（この薬を1日2回飲んでください。）
 
-〈単位〉を表す〈by＋定冠詞＋名詞〉の用法（16-3-3-2）の違いに注意。
+〈単位〉を表す〈by＋定冠詞＋名詞〉の用法（[16-3-3-2](chapter16.md)との違いに注意。
 
 - They are paid 100 dollers a day.（彼らは1日あたり100ドルもらっている。）
 - They are paid by the day.（彼らは日給で支払われている。）
 
+なお、ゴルフの「パー」（par）とのスペルの違いにも注意。
+
 #### 16-2-2-5: 総称用法（→3-1-1-2）
 - _A camel_ is a friendly animal. _It_ lives in the hot, dry desert.（ラクダは人なつこい動物です。それは暑く、乾燥した砂漠に住んでいます。）
 
-3-1-1-2で述べたように、〈不定冠詞・単数形〉を使った総称用法は、主語の位置で用いられるのがふつう。また、あくまでもその種族の特性を、ひとつの個体に代表させて述べているだけなので、種族全体について一括して述べるばあいには使えない。たとえば「パンダは絶滅しかけている」というときに_A panda_ is becoming extinct.とすることはできず、_Pandas_ are becoming extinct.か_The panda_ is becoming extinct.とする。
+3-1-1-2で述べたように、〈不定冠詞・単数形〉を使った総称用法は、主語の位置で用いられるのがふつう。
+
+また、あくまでもその種族の特性を、ひとつの個体に代表させて述べているだけなので、種族全体について一括して述べるばあいには使えない。たとえば「パンダは絶滅しかけている」というときに_A panda_ is becoming extinct.とすることはできず、_Pandas_ are becoming extinct.か_The panda_ is becoming extinct.とする。
 
 #### 16-2-2-6: 〈序数詞〉を限定してanotherの意味を表す
-- He tried to jump across the river _a third_ time.（彼は2回めに続いてもう一度川を飛び越えようとした。）
-- Any person diagnosed with a serious medical problem should get _a second_ opinion.（深刻な健康問題があると診断された人は誰でも、セカンド・オピニオンを得るべきだ〔別のところで改めて診察を受けるべきだ〕。）
+1. He tried to jump across the river _a third_ time.（彼は2回めに続いてもう一度川を飛び越えようとした。）
+2. Any person diagnosed with a serious medical problem should get _a second_ opinion.（深刻な健康問題があると診断された人は誰でも、セカンド・オピニオンを得るべきだ〔別のところで改めて診察を受けるべきだ〕。）
 
 #### 16-2-2-7: 「同じ（＝one and the same）」の意味を表す
-- Birds of a feather flock together.（同じ羽毛の鳥は群れ集まる。＝類は友を呼ぶ。）《諺》
+1. Birds _of a feather_ flock together.（同じ羽毛の鳥は群れ集まる。＝類は友を呼ぶ。）《諺》
+2. Taro and I are _of a age_.（タロウと私は同い年だ。）
+
+〈前置詞of〉とともに使うことが多いが、いまでは古風な言い回しである。試験にはよく出る。
 
 ### 16-2-3: 〈不定冠詞＋不可算名詞〉
 この項目のタイトルには注意して欲しいが、〈不可算名詞〉を述べるさいに、〈不定冠詞〉を使うことはできない。ここでは、「一般的に〈不可算〉とされている名詞を、特別な意味で（＝〈可算名詞〉として）使いたい」というばあいにかぎった用法を紹介する。
@@ -175,60 +186,62 @@
 [6-2](chapter06.md)参照。
 
 ##### 16-2-3-2-3: 種類や製品を表すばあいには〈可算名詞〉として使われる
-- Every month you receive _a_ different _wine_ from a different region of the world.（毎月世界の違う地域から違う種類のワインをあなたは受け取ります。）※いわゆる「種類には［C］」
-- _A nickel_ will get yu on the subway.（5セント白銅貨があれば地下鉄に乗れます。）※5セント硬貨はnickel、10セント硬貨はdime。
-- He invented _a_ new _plastic_.（彼は新しい合成樹脂を発明した。）※いわゆる「種類には［C］」
+1. Every month you receive _a_ different _wine_ from a different region of the world.（毎月世界の違う地域から違う種類のワインをあなたは受け取ります。）※いわゆる「種類には［C］」
+2. _A nickel_ will get yu on the subway.（5セント白銅貨があれば地下鉄に乗れます。）※5セント硬貨はnickel、10セント硬貨はdime。
+3. He invented _a_ new _plastic_.（彼は新しい合成樹脂を発明した。）※いわゆる「種類には［C］」
 
 #### 16-2-3-3: 〈不定冠詞＋抽象名詞〉
+1. There was _a silence_ for a while.（しばらく静まり返った。）
+
 出来事、実例などを具体的に述べるばあいは、〈抽象名詞〉でも〈単位性〉を持ち、〈可算名詞〉になる（→[7-1-2](chapter07.md)）。
 
 また、〈形容詞〉によって限定されることで〈可算名詞〉になる〈抽象名詞〉も多い（→[7-1-3-4](chapter07.md)）。
-
-- There was _a silence_ for a while.（しばらく静まり返った。）
 
 ## 16-3: 〈定冠詞〉の用法
 ### 16-3-1: 〈定冠詞〉の基本的用法
 〈定冠詞〉の基本的意味は「その・例の・あの・前述の」というほどのものである。この基本的意味を理解したうえで、拡大用法や慣用表現も学習しよう。
 
 #### 16-3-1-1: 前に出た〈名詞〉が指すものを2度めから示す
-- You took _a photo_ of me. Show _the photo_ to me.（私の写真を撮ったでしょう。それを私に見せてよ。）
-- I met _a boy_ and _an_ American _girl_. _The boy_ said he was from Senegal.（私は1人の少年とアメリカ人の少女に会った。少年はセネガル出身だと言った。）
+1. You took _a photo_ of me. Show _the photo_ to me.（私の写真を撮ったでしょう。それを私に見せてよ。）
+2. I met _a boy_ and _an_ American _girl_. _The boy_ said he was from Senegal.（私は1人の少年とアメリカ人の少女に会った。少年はセネガル出身だと言った。）
 
-注意して欲しいのは、あくまでも、その〈名詞〉が指しているものが同一であるばあいのみ、この用法が使える、ということである。たとえば：
+注意して欲しいのは、あくまでも、**その〈名詞〉が指しているものが同一であるばあいのみ**、この用法が使える、ということである。たとえば：
 
 - ［正］Mary ate _an apple_. Mike ate _an apple_, too.（メアリーはリンゴを食べた。マイクも食べた。）
 - ［？］Mary ate _an apple_. Mike ate _the apple_, too.（メアリーはリンゴを食べた。マイクも、メアリーが食べてしまったそのリンゴをどうにかして胃袋から取り出して食べた。／〔あるいは〕メアリーはリンゴを食べた。同時に、そのまさにメアリーが食べたはずのリンゴを、マイクも食べた。）
 
 #### 16-3-1-2: 文脈やその場の状況からそれとわかるものを示す
 ##### 16-3-1-2-1: 文脈からわかるばあい
-- We have decidec to put on a drama. John suggested _the plan_.（我々は劇をやる。ジョンがその案を出した。）
-- We found _a small cottage_. _The door_ was closed.（我々は小さな家を見つけた。ドアは閉まっていた。）
+1. We have decidec to put on a drama. John suggested _the plan_.（我々は劇をやる。ジョンがその案を出した。）
+2. We found _a small cottage_. _The door_ was closed.（我々は小さな家を見つけた。ドアは閉まっていた。）
 
 ##### 16-3-1-2-2: その場の状況からわかるばあい
-- Did you remember to lock _the door_?（忘れずにドアの鍵をかけてきましたか？）
-- It is cold in here. Please shut _the window_.（ここは寒いですね。窓を閉めてください。）
+1. Did you remember to lock _the door_?（忘れずにドアの鍵をかけてきましたか？）
+2. It is cold in here. Please shut _the window_.（ここは寒いですね。窓を閉めてください。）
 
 #### 16-3-1-3: 常識的にただ1つしかないもの
-- Our college is in _the north_ of England.（我々のカレッジはイングランドの北部にある。）
-- _The moon_ travels around _the earth_.（月は地球の周りをまわっている。）
+1. Our college is in _the north_ of England.（我々のカレッジはイングランドの北部にある。）
+2. _The moon_ travels around _the earth_.（月は地球の周りをまわっている。）
+
+［注意］_a full moon_（満月）、_a new moon_（新月）、_a half moon_（半月）などは「月という惑星そのもの」を指しているのではなく、月の位相（phase）の種類を述べている（満月はただ1つしかないものではなく、来月も来年もありうる）。moonだから〈定冠詞〉、と機械的に覚えないほうがよい。
 
 #### 16-3-1-4: 修飾語句がついて特定のものに限定されている〈名詞〉
 ##### 16-3-1-4-1: 〈of＋名詞〉や〈関係詞節〉などで限定されるばあい
-- London is _the capital_ of UK.（ロンドンはイギリスの首都だ。）
-- He was surprised at _the ignoreance_ his friend betrayed.（彼は友人のさらけ出した無知に驚いた。）
-- I am still unable to sleep because of _the tea_ I drank earlier.（さっき飲んだお茶のせいでまだ眠れない。）
-- I came to Tokyo in _the spring_ of 1992.（私は1992年の春に上京した。）
+1. London is _the capital_ of UK.（ロンドンはイギリスの首都だ。）
+2. He was surprised at _the ignoreance_ his friend betrayed.（彼は友人のさらけ出した無知に驚いた。）
+3. I am still unable to sleep because of _the tea_ I drank earlier.（さっき飲んだお茶のせいでまだ眠れない。）
+4. I came to Tokyo in _the spring_ of 1992.（私は1992年の春に上京した。）
 
 ［注意］修飾語句がつけば必ず〈定冠詞〉が使われるわけではない。例えば：
 
 - When _a European_ buys _a car_ produced in Japan, _the car_ comes to Europe, and _the money_ goes to Japan.（ヨーロッパ人が日本製の車を買うと、車はヨーロッパに来るが、金は日本に行ってしまう。）
 
-_a car_は「日本製の車」であればどれでもよいことを示しており、冒頭の_a European_も同様にヨーロッパ人であれば誰でもよいことを示している。_the car_はそのヨーロッパ人が買った「その1台」を指しており、_the money_はその1台を買ったときの「その金」を指す。
+_a car_は〈分詞〉の〈形容詞句〉で〈後置修飾〉されているが、「日本製の車」であればどれでもよいことを示しており（任意の1台）、冒頭の_a European_も同様にヨーロッパ人であれば誰でもよいことを示している。_the car_はそのヨーロッパ人が買った「その1台」を指しており、_the money_はその1台を買ったときの「その金」を指す。
 
 ##### 16-3-1-4-2: only, first, lastなどや〈形容詞〉の〈最上級〉で修飾されるばあい
-- Harry is _the only person_ I can trust.（ハリーは私が信頼できる唯一の人だ。）
-- The cheetah is _the fastest animal_ on land. It can reach speeds of more than 100 kilometers per hour.（チーターは地上で最も速い動物である。時速は100キロメートルを上回る。）
-- Luciano is _the only dog_ she keeps, and he is also _the best friend_ that she has.（ルチアノは彼女が飼っている唯一の犬であり、彼女の無二の親友でもある。）
+1. Harry is _the only person_ I can trust.（ハリーは私が信頼できる唯一の人だ。）
+2. The cheetah is _the fastest animal_ on land. It can reach speeds of more than 100 kilometers per hour.（チーターは地上で最も速い動物である。時速は100キロメートルを上回る。）
+3. Luciano is _the only dog_ she keeps, and he is also _the best friend_ that she has.（ルチアノは彼女が飼っている唯一の犬であり、彼女の無二の親友でもある。）
 
 #### 16-3-1-5: 〈定冠詞＋固有名詞〉
 [8-1](chapter08.md)を参照。
@@ -243,12 +256,14 @@ _a car_は「日本製の車」であればどれでもよいことを示して�
 などがある。
 
 ### 16-3-2: 〈定冠詞〉の拡大用法
-#### 16-3-2-1: 総称用法（→3-1-1-2）
+#### 16-3-2-1: 総称用法（→[3-1-1-2](chapter03.md)）
 - _The dolphin_ is a marine mammal.（イルカは海の哺乳動物だ。）
 
-なお、〈定冠詞＋楽器名〉は総称用法である。
+なお、〈定冠詞＋楽器名〉は総称用法であるともいえる：
 
 - He plays _the violin_.（彼はバイオリンを演奏する。）
+
+ただ1つしかない〈特定〉のバイオリンだけを弾くのではなく、「バイオリンという楽器」を弾くのである。
 
 #### 16-3-2-2: 〈定冠詞＋単数具象名詞〉の〈抽象名詞〉的用法（→[第4節](chapter04.md)）
 - The area between the Tigris and Euphrates Rivers is considered _the cradle_ of Western civilization.（チグリス川とユーフラテス川に挟まれた地域が西洋文明発祥の地と考えられている。）
@@ -256,15 +271,15 @@ _a car_は「日本製の車」であればどれでもよいことを示して�
 cradle「ゆりかご」は比喩的に「発祥地・揺籃の地」という抽象的概念を意味する。また、from _the cradle_ to _the grave_（ゆりかごから墓場まで）という決まり文句は「一生の間」という抽象的概念を意味する。
 
 #### 16-3-2-3: 〈定冠詞＋複数名詞〉で全部を表す用法
-- _The Japanese_ are diligent workers.（日本人は勤勉な働き者だ。）
-- Please wipe _the tables_.（テーブルをふきなさい。）
+1. _The Japanese_ are diligent workers.（日本人は勤勉な働き者だ。）
+2. Please wipe _the tables_.（テーブルをふきなさい。）
 
 「そこにあるテーブルをみんな」ほどの意味。
 
 #### 16-3-2-4: 〈定冠詞＋形容詞［分詞］〉
 ##### 16-3-2-4-1: 「人々」
-- _The poor_ are often generous to each other.（貧乏人は互いに対して寛容であることが多い。）
-- _The learned_ are not necessarily scholars.（博学な人だからといって、必ずしも学者というわけではない。）
+1. _The poor_ are often generous to each other.（貧乏人は互いに対して寛容であることが多い。）
+2. _The learned_ are not necessarily scholars.（博学な人だからといって、必ずしも学者というわけではない。）
 
 ##### 16-3-2-4-2: 「～なもの、～なこと」（〈抽象名詞〉的）
 - He has an eye for _the beautiful_ and is a lover of nature.（彼は美に対する鑑識眼があり、自然の愛好者だ。）
@@ -273,7 +288,7 @@ cradle「ゆりかご」は比喩的に「発祥地・揺籃の地」という�
 #### 16-3-3-1: 〈catch A by the hand〉型（体の部分）
 - A police officer _caught_ him _by the arm_.（警官が彼の腕を捕まえた。）
 
-A police offecer caught his arm.でも英文としては正しいが、_caught_ him _by the arm_で「彼を捕まえた」という意味が要点になり、そのときにつかんだのが「腕」だ、といっていることになる。このとき〈前置詞〉は、動作とそれを受ける体の部分の関係を表す（動作と動作主との関係ではない）：
+A police offecer caught his arm.でも英文としては正しいが、_caught_ him _by the arm_で「彼を捕まえた」という意味が要点になり、そのときにつかんだのが「腕」だ、といっていることになる。ここでの〈前置詞by〉は「手段」を意味している。直訳すれば「警官が彼を、彼の腕を用いて捕まえた。」となり、さらにbyのニュアンスを解きほぐして訳せば「警官が彼を、彼の腕という捕まえる手段を利用して捕まえた。」となる。
 
 - Jim took his daughter _by the hand_ and left the room.（ジムは娘の手を引いて、部屋から出て行った。）
 - He punched me _in the face_.（彼が私の顔を殴った。）
@@ -281,8 +296,8 @@ A police offecer caught his arm.でも英文としては正しいが、_caught_ 
 - kick A _in the leg_（Aの脚を蹴る）
 
 #### 16-3-3-2: 〈by the pound〉型（単位）
-- The workers are paid _by the week_.（その労働者たちは週給をもらっている。）
-- Meat is sold _by the pound_, and gasoline is sold _by the gallon_.（肉はポンド単位で売られ、ガソリンはガロン単位で売られる。）
+1. The workers are paid _by the week_.（その労働者たちは週給をもらっている。）
+2. Meat is sold _by the pound_, and gasoline is sold _by the gallon_.（肉はポンド単位で売られ、ガソリンはガロン単位で売られる。）
 
 「～につき（＝per）」を表す〈不定冠詞＋名詞〉の用法（16-2-2-4）との違いに注意。
 
