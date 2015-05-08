@@ -97,33 +97,33 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 #### 7-1-3-1: 量や程度を示す〈限定詞〉
 〈抽象名詞〉によっては、someやmuchなどで、量や程度を示すことがある。
 
-- He has not had _much_ experience.（彼はあまり経験がない。）
-- _A little_ knowledge is a dangerous thing.（少しだけ知識があるということは危険なことだ。＝生兵法は怪我の元。）《諺》
-- He has _a_ knowledge of French.（彼はフランス語が少しできる。）
+1. He has not had _much_ experience.（彼はあまり経験がない。）
+2. _A little_ knowledge is a dangerous thing.（少しだけ知識があるということは危険なことだ。＝生兵法は怪我の元。）《諺》
+3. He has _a_ knowledge of French.（彼はフランス語が少しできる。）
 
-3つめの例文の_a_は_some_（いくらか）の意味である。at _a_ distance（ちょっと離れて）やfor _a_ time（しばらくの間）なども同じである。
+3つめの例文の_a_は_some_（いくらか）の意味である（→[16-2-2-3](chapter16.md)）。at _a_ distance（ちょっと離れて）やfor _a_ time（しばらくの間）なども同じである。
 
 #### 7-1-3-2: 具体的に数えるばあい
 〈物質名詞〉を数えるときに〈単位〉を用いたように、具体的に数えるときは_a piece of_や_an item of_を使う。
 
-- _A piece of_ good _advice_ is worth a pocketful of gold.（1つのよい助言はポケットいっぱいの金の価値がある。）
-- She sent us _an item of news_.（彼女は我々にニュースを1つ届けてくれた。）
-- You gave us _a_ wonderful _piece of information_.（きみは我々にすばらしい情報をくれた。）
+1. _A piece of_ good _advice_ is worth a pocketful of gold.（1つのよい助言はポケットいっぱいの金の価値がある。）
+2. She sent us _an item of news_.（彼女は我々にニュースを1つ届けてくれた。）
+3. You gave us _a_ wonderful _piece of information_.（きみは我々にすばらしい情報をくれた。）
 
 #### 7-1-3-3: 〈定冠詞〉
 〈of + （代）名詞〉などで後ろから限定されたばあい、〈定冠詞〉で前から限定する。
 
-- You should know _the difficulty of learning_ how to drive a car.（きみは車の運転を覚える難しさを知るべきだ。）
-- I have learned _the strength of human spirit_.（私は人間の精神の強さを学んできた。）
-- Will you have _the kindness to help us_ now?（いま、手伝ってもらってもよろしいですか？）
+1. You should know _the difficulty of learning_ how to drive a car.（きみは車の運転を覚える難しさを知るべきだ。）
+2. I have learned _the strength of human spirit_.（私は人間の精神の強さを学んできた。）
+3. Will you have _the kindness to help us_ now?（いま、手伝ってもらってもよろしいですか？）
 
 #### 7-1-3-4: 〈形容詞〉
 〈抽象名詞〉を〈形容詞〉が限定しているとき、具体的な例や種類を指すために〈可算名詞〉となり、〈不定冠詞〉で前から限定することが多い。ただし、7-1-2「〈可算名詞〉としての使い方」で述べた〈純不可算名詞〉のように、どんな〈形容詞〉によって限定されようとも〈可算名詞〉にはならない名詞には、〈不定冠詞〉を使わない。
 
-- She had _a happy marriage_.（彼女は幸せな結婚生活を送った。）
-- In most case _a polite refusal_ would be appropriate.（たいていのばあい、丁寧に断るのが適切だろう。）
-- I have a bit of _good news_ to tell everyone.（みんなに伝えたいいい知らせがある。）
-- He is making _steady progress_ in speaking English.（彼は英語を話すのが着実に進歩している。）
+1. She had _a happy marriage_.（彼女は幸せな結婚生活を送った。）
+2. In most case _a polite refusal_ would be appropriate.（たいていのばあい、丁寧に断るのが適切だろう。）
+3. I have a bit of _good news_ to tell everyone.（みんなに伝えたいいい知らせがある。）
+4. He is making _steady progress_ in speaking English.（彼は英語を話すのが着実に進歩している。）
 
 〈純不可算名詞〉の〈抽象名詞〉を再掲しておく：
 
@@ -134,34 +134,34 @@ information（情報）やadvice（助言）は〈不可算名詞〉だから、
 
 #### 7-1-4-1: 〈of＋抽象名詞〉（≒形容詞）
 
-- He is a man _of ability_.（彼は有能な人だ。）※＝able
-- It is _of_ great _importance_ to Japan both politically and economically.（日本にとって政治的にも経済的にも非常に重要である。）※＝important
-- That book is _of use_ to me.（あの本は私には役立つ。）※＝useful
-- This book is _of no use_ to me.（この本は私には役に立たない。）※＝useless
-- This old coin is now _of value_.（この古コインはいまでは価値がある。）※＝valuable
-- These old coins are now _of no value_.（これらの古コインはいまでは無価値だ。）
-- It is _of_ great _worth_.（それはおおいに価値がある。）※＝worthy
+1. He is a man _of ability_.（彼は有能な人だ。）※＝able
+2. It is _of_ great _importance_ to Japan both politically and economically.（日本にとって政治的にも経済的にも非常に重要である。）※＝important
+3. That book is _of use_ to me.（あの本は私には役立つ。）※＝useful
+4. This book is _of no use_ to me.（この本は私には役に立たない。）※＝useless
+5. This old coin is now _of value_.（この古コインはいまでは価値がある。）※＝valuable
+6. These old coins are now _of no value_.（これらの古コインはいまでは無価値だ。）
+7. It is _of_ great _worth_.（それはおおいに価値がある。）※＝worthy
 
 #### 7-1-4-2: 〈with＋抽象名詞〉（≒副詞）
-- Treat it _with care_.（注意してそれを扱いなさい。）※＝carefully
-- We did it _with difficulty_.（我々は苦労して〔かろうじて〕それを成し遂げた。）※＝barely
-- It was done _with ease_.（楽々とできた。）※＝easily
-- She showed me the way to the station _with kindness_.（彼女は親切にも駅への道を教えてくれた。）※＝kindly
-- The parrot would say _with rapidity_.（そのオウムは早口でいったものだ。）※＝repidly
+1. Treat it _with care_.（注意してそれを扱いなさい。）※＝carefully
+2. We did it _with difficulty_.（我々は苦労して〔かろうじて〕それを成し遂げた。）※＝barely
+3. It was done _with ease_.（楽々とできた。）※＝easily
+4. She showed me the way to the station _with kindness_.（彼女は親切にも駅への道を教えてくれた。）※＝kindly
+5. The parrot would say _with rapidity_.（そのオウムは早口でいったものだ。）※＝repidly
 
 #### 7-1-4-3: その他
-- I live _at leisure_.（私はのんびり〔ゆっくり〕暮らします。）※＝leisurely
-- _At length_, the Liberal Democratic Party went out of power.（ついに自民党が野党に下った。）※＝finally
-- An animal can move _at will_.（動物は意のままに動く。）※＝freely
-- I met her _by accident_.（偶然に彼女に出会った。）※＝accidentally
-- I drank something _by mistake_.（まちがって何かを飲んでしまった。）※＝mistakenly
-- I was watching _in excitement_.（私はハラハラして見ていた。）※＝excitedly
-- They parted _in anger_.（彼らは怒って別れた。）※＝angrily
-- Let's go _in haste_!（急いでいこう！）※＝hastily
-- There are no problems _in particular_.（特に問題はない。）※＝particularly
-- That doesn't make it _in time_.（それは間に合わない。）
-- He made a mistake _on purpose_.（彼は故意に間違えた。）※＝intentinally
-- Are we arriving _on time_?（時間通りに到着しますか？）※＝punctually
+1. I live _at leisure_.（私はのんびり〔ゆっくり〕暮らします。）※＝leisurely
+2. _At length_, the Liberal Democratic Party went out of power.（ついに自民党が野党に下った。）※＝finally
+3. An animal can move _at will_.（動物は意のままに動く。）※＝freely
+4. I met her _by accident_.（偶然に彼女に出会った。）※＝accidentally
+5. I drank something _by mistake_.（まちがって何かを飲んでしまった。）※＝mistakenly
+6. I was watching _in excitement_.（私はハラハラして見ていた。）※＝excitedly
+7. They parted _in anger_.（彼らは怒って別れた。）※＝angrily
+8. Let's go _in haste_!（急いでいこう！）※＝hastily
+9. There are no problems _in particular_.（特に問題はない。）※＝particularly
+10. That doesn't make it _in time_.（それは間に合わない。）
+11. He made a mistake _on purpose_.（彼は故意に間違えた。）※＝intentinally
+12. Are we arriving _on time_?（時間通りに到着しますか？）※＝punctually
 
 最後にひとつ注意点。
 
