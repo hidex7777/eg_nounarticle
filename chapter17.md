@@ -9,7 +9,7 @@
 
 ### 17-1-2: 〈冠詞〉が〈形容詞〉や〈副詞〉の後に位置するばあい
 
-「ふつう」とは異なる語順になるタイプを分類したが、どれも見慣れたものだと思う。シンプルに：
+「ふつう」とは異なる語順になるタイプを分類するが、どれも見慣れたものだと思う。シンプルに：
 
 1. such
 2. so, as, too
@@ -169,56 +169,55 @@ bedは「寝るための」という機能・目的を備えているため、go
 #### 17-2-5-1: 対句
 ##### 17-2-5-1-1: 〈A and B〉
 1. We are _husband and wife_.（私たちは夫婦です。）
-2. day and night（昼も夜も）
-3. year after year（来る年も来る年も）
+2. _day and night_（昼も夜も）
+3. _year after year_（来る年も来る年も）
 
 ##### 17-2-5-1-2: 〈A＋前置詞＋A〉
 - Democratic reforms go _hand in hand_ with economic reforms.（民主的な改革は経済的改革と密接な関係がある。）
 
 ##### 17-2-5-1-3: 〈from A to[till] B〉
 1. They kept on living _from hand to mouth_.（彼らはその日暮らしを続けていた。）
-2. from door to door（1軒ごとに）
+2. _from door to door_（1軒ごとに）
 
 #### 17-2-5-2: 〈kind[type] of＋A〉
 - When _a new type of computer_ is introduced, it is usually expensive.（新型のコンピューターが発売されるときはたいてい高価である。）
 
 #### 17-2-5-3: その他の慣用句で
-
-この手の「〈無冠詞＋名詞〉を用いた慣用表現」をあげていけば、きりがない。これは「〈不定冠詞＋名詞〉を用いた慣用表現」も「〈定冠詞＋名詞〉を用いた慣用表現」も同様である。『NextStage』のような「試験によく出るイディオム集」でまとめて覚えてしまうのが効率的かもしれない。もちろん理想的には、英文の読解のついでに蓄積することが望ましい。
+この手の「〈無冠詞＋名詞〉を用いた慣用表現」をあげていけば、きりがない。これは「〈不定冠詞＋名詞〉を用いた慣用表現」も「〈定冠詞＋名詞〉を用いた慣用表現」も同様である。『NextStage』のような「試験によく出るイディオム集」でまとめて覚えてしまうのが効率的かもしれない。もちろん理想的には、英文の読解のついでに言い回しを蓄積することが望ましい。
 
 ##### 17-2-5-3-1: 〈他動詞＋名詞〉型
 1. Americans will never forget the series of events that _took place_ on the morning of Sept. 11, 2001.（米国人は2001年9月11日の朝起きた一連の出来事を決して忘れないだろう。）
-2. beg pardon（許しを請う）
-3. give way（崩れ倒れる）
-4. lose sight of（見失う）
-5. send word（伝言する）
-6. set sail（出帆する）
-7. take care of（世話する）
-8. take part in（参加する）
+2. _beg pardon_（許しを請う）
+3. _give way_（崩れ倒れる）
+4. _lose sight of_（見失う）
+5. _send word_（伝言する）
+6. _set sail_（出帆する）
+7. _take care of_（世話する）
+8. _take part in_（参加する）
 
 ##### 17-2-5-3-2: 〈前置詞＋名詞〉型
 1. She learned that poem _by heart_ at school.（彼女は学校でその詩を暗記した。）
-2. at heart（心の底では）
-3. at noon（正午に）
-4. by accident（偶然に）
-5. by chance（偶然に）
-6. by name（名前で／名指しで）
-7. by profession（職業は）
-8. by trade（職業は、商売は）
-9. for example（たとえば）
-10. in fact（じっさい）
-11. of opinion（意見上で）
-12. on hand（手元に）
-13. under sail（帆走中で）
+2. _at heart_（心の底では）
+3. _at noon_（正午に）
+4. _by accident_（偶然に）
+5. _by chance_（偶然に）
+6. _by name_（名前で／名指しで）※She knows all her students _by name_.（彼女は生徒の名前を全員知っている。）
+7. _by profession_（職業は）
+8. _by trade_（職業は、商売は）
+9. _for example_（たとえば）
+10. _in fact_（じっさい）
+11. _of opinion_（意見上で）
+12. _on hand_（手元に）
+13. _under sail_（帆走中で）
 
 ##### 17-2-5-3-3: 〈前置詞＋名詞＋前置詞〉型
 1. _In (the) course of_ time there was a need to train computer professionals.（やがてコンピューターの専門家を育てる必要が出てきた。）※theを用いるばあいもある。
-2. by means of（～により）※byの強調と考えてよい。
-3. by reason of（～のゆえに）
-4. by way of（～経由で）
-5. in terror of（～を恐れて）
-6. in respect of（～の点において）
-7. on behalf of（～のために／～を代表して）
+2. _by means of_（～により）※byの強調と考えてよい。
+3. _by reason of_（～のゆえに）
+4. _by way of_（～経由で）
+5. _in terror of_（～を恐れて）
+6. _in respect of_（～の点において）
+7. _on behalf of_（～のために／～を代表して）
 
 behalfは、
 
