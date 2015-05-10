@@ -1,7 +1,7 @@
 # 第10節　〈名詞〉の数
 英語の〈名詞〉には、1つの物・事・人を表す〈単数〉と、2つ以上の物・事・人を表す〈複数〉がある。この点は、大きく日本語と異なる点だから、注意を要する。
 
-英語を用いて話したり、考えたりするプロセスにおいて、まずその対象が〈可算〉であるか〈不可算〉であるかが大きな問題となる（[3-1-1](chapter03.md)参照）。〈不可算〉の対象について語ろうとするとき、話者は"uh, uh, uh... chicken!"（エート、エート、エート、鶏肉！）と考え、〈可算〉でかつ1つの対象について語ろうとするとき、話者は"a, a, a... a hamburger!"（アノ、アノ、アノ、ハンバーガー！）と考える。
+英語を用いて話したり、考えたりするプロセスにおいて、まずその対象が〈可算〉であるか〈不可算〉であるかが大きな問題となる（→[3-1-1](chapter03.md)）。〈不可算〉の対象について語ろうとするとき、話者は"uh, uh, uh... chicken!"（エート、エート、エート、鶏肉！）と考え、〈可算〉でかつ1つの対象について語ろうとするとき、話者は"a, a, a... a hamburger!"（アノ、アノ、アノ、ハンバーガー！）と考える。
 
 〈複数〉の対象について考えるとき、いまの2つの思考プロセスのどちらをたどるのかといえば、当然ながら〈可算〉の思考プロセスをたどる。〈可算〉でなければそもそも〈複数〉にならないのだから。
 
@@ -15,14 +15,14 @@
 ### 10-1-1: 疑問
 〈可算名詞〉を使って「～がありますか？」と聞くようなばあい、**「あるとすれば、1つしかない」とわかっているばあいは〈単数形〉**を使い、**「あるとしても、いくつあるかわからない」ばあいや「いくつもある」とわかっているばあいは〈複数形〉**を使う。
 
-- _Are_ there _any mikes_ on the stage?（ステージにはマイクがありますか？）
-- _Is_ there _a mike_ on the stage?（ステージにはマイクがありますか？）
+1. _Are_ there _any mikes_ on the stage?（ステージにはマイクがありますか？）
+2. _Is_ there _a mike_ on the stage?（ステージにはマイクがありますか？）
 
 ### 10-1-2: 否定
 〈可算名詞〉をnoを使って修飾して、「～がない」というばあい、**一般的には〈複数形〉**にするが、**1つしかないのが自然であるばあいは〈単数形〉**にする。
 
-- This hotel has _no rooms_ on the first floor.（このホテルの1階には客室がない。）
-- My father has _no room_ of his own.（私の父には自分の部屋がない。）
+1. This hotel has _no rooms_ on the first floor.（このホテルの1階には客室がない。）
+2. My father has _no room_ of his own.（私の父には自分の部屋がない。）
 
 また、0（zero）で修飾する名詞もふつうは〈複数形〉にする。
 
@@ -56,62 +56,64 @@
 
 どちらも「1以上」（「1より大きい」の誤りであろう）ならば〈複数扱い〉という点は共通しているが、1未満の扱いに差異がある。
 
-『ロイヤル英文法』では「原則として単数形」としているのに対し、『実践ロイヤル』では「一般には複数形」としている。このような違いは、ここで我々が行っているような「文法作り」にあたって参照しているコーパスの偏りによって生じる。現実的な対処法としては、『実践ロイヤル』が提案するように、「1以外なら複数」として扱っておくのが無難だろう。
+『ロイヤル英文法』では「原則として単数形」としているのに対し、『実践ロイヤル』では「一般には複数形」としている。このような違いは、ここで我々が行っているような「文法作り」にあたって参照しているコーパス（言語資料）の偏りによって生じる。現実的な対処法としては、『実践ロイヤル』が提案するように、「1以外なら複数」として扱っておくのが無難だろう。
 
 ## 10-2: 規則複数
 ### 10-2-1: 規則的な〈複数形〉の作り方
-#### 10-2-1-1: 〈単数形〉の語尾に -s をつける
-- book → books, game → games, day → days
+#### 10-2-1-1: 〈単数形〉の語尾に-sをつける
+- book→books, game→games, day→days
 
--s の発音は、無声音の次なら［s］、有声音・母音の次なら［z］になるなど、いくつか法則はある。また、 -th で終わる語に -s がつくと -th も含めた音変化が生じるなど（mouth［θ］ → mouths［ðz］など）、複雑な法則がある。**センター試験の発音問題などで問われる点ではある**が、法則を覚えるよりも、辞書をひいたときに複数形の発音も同時にメモしておくなどして（もちろん声に出して読まなければならない）、単語ごとに発音を身体になじませるべきだろう。頭で覚えた法則はすぐ忘れるが、身体化された法則は応用がきくからだ。
+-sの発音は、無声音の次なら［s］、有声音・母音の次なら［z］になるなど、いくつか法則はある。また、-thで終わる語に-sがつくと-thも含めた音変化が生じるなど（mouth［θ］→mouths［ðz］など）、複雑な法則がある。
 
-#### 10-2-1-2: 語尾の発音が［s］［z］［ʃ］［ʒ］［tʃ］［dʒ］で終わる〈名詞〉には -es をつける
-- bus → buses, lens → lenses, dish → dishes, watch → watches
+**センター試験の発音問題などで問われる点ではある**が、法則を覚えるよりも、辞書をひいたときに〈複数形〉の発音も同時にメモしておくなどして（もちろん声に出して読まなければならない）、単語ごとに発音を身体になじませるべきだろう。頭で覚えた法則はすぐ忘れるが、身体化された法則は応用がきくからだ。
 
-ただし、語尾が発音しない -e で終わっているならば、 -s のみをつける：
+#### 10-2-1-2: 語尾の発音が［s］［z］［ʃ］［ʒ］［tʃ］［dʒ］で終わる〈名詞〉には-esをつける
+- bus→buses, lens→lenses, dish→dishes, watch→watches
 
-- rose → roses
+ただし、語尾が発音しない-eで終わっているならば、-sのみをつける：
 
-#### 10-2-1-3: 子音字＋yで終わる〈名詞〉は y を i に変えて -es をつける
-- lady → ladies, army → armies
+- rose→roses
 
-**注意（試験に出る）：母音字+yで終わる語にはそのまま -s をつける**：
+#### 10-2-1-3: 子音字＋yで終わる〈名詞〉はyをiに変えて-esをつける
+- lady→ladies, army→armies
 
-- boy → boys, monkey → monkeys, chimney（煙突） → chimneys
+**注意（試験に出る）：母音字+yで終わる語にはそのまま-sをつける**：
+
+- boy→boys, monkey→monkeys, chimney（煙突）→chimneys
 
 #### 10-2-1-4: -oで終わる〈名詞〉
-##### 10-2-1-4-1: 子音字＋oで終わる〈名詞〉：ふつうは -s をつけるが -es をつけるものもある
-###### 10-2-1-4-1-1: 伝統的に -es をつける語
-- hero → heroes, echo → echoes, potato → potatoes, tomato → tomatoes
+##### 10-2-1-4-1: 子音字＋oで終わる〈名詞〉：-sをつけるものと-esをつけるものがある
+###### 10-2-1-4-1-1: 伝統的に-esをつける語
+- hero→heroes, echo→echoes, potato→potatoes, tomato→tomatoes
 
 ###### 10-2-1-4-1-2: 省略・短縮された語は -s をつける
-- piano（＜pianoforte） → pianos, photo（＜photograph） → photos, kilo（＜kilogram, kilometer） → kilos, auto（＜automobile） → autos
+- piano（＜pianoforte）→pianos, photo（＜photograph）→photos, kilo（＜kilogram, kilometer）→kilos, auto（＜automobile）→ autos
 
-###### 10-2-1-4-1-3:その他 -s をつける語
-- solo → solos, torso（トルソー） → torsos, ghetto（ゲットー） → ghettos
+###### 10-2-1-4-1-3:その他-sをつける語
+- solo→solos, torso（トルソー）→ torsos, ghetto（ゲットー）→ghettos
 
 ##### 10-2-1-4-2: 母音字＋oで終わる名詞： -s をつける
-- bamboo（竹） → bamboos, duo → duos, kangaroo → kangaroos, radio → radios, trio → trios
+- bamboo（竹）→bamboos, duo→duos, kangaroo→kangaroos, radio→radios, trio→trios
 
-#### 10-2-1-5: -f, -fe で終わる〈名詞〉
-##### 10-2-1-5-1: 原則として -f, -fe を -ves に変える
-- half → halves, knife → kinives, leaf → leaves, life → lives
+#### 10-2-1-5: -f,-feで終わる〈名詞〉
+##### 10-2-1-5-1: 原則として-f,-feを-vesに変える
+- half→halves, knife→kinives, leaf→leaves, life→lives
 
-##### 10-2-1-5-2: そのまま -s をつけるもの
-- roof → roofs, belief（信念） → beliefs, chief（上司） → chiefs, cliff（崖） → cliffs, cuff（袖口） → cuffs, gulf（湾） → gulfs, grief（悲しみ） → griefs, proof（証拠） → proofs, relief（浮き彫り） → reliefs, safe（金庫） → safes
+##### 10-2-1-5-2: そのまま-sをつけるもの
+- roof→roofs, belief（信念）→beliefs, chief（上司）→chiefs, cliff（崖）→cliffs, cuff（袖口）→cuffs, gulf（湾）→gulfs, grief（悲しみ）→griefs, proof（証拠）→proofs, relief（浮き彫り）→reliefs, safe（金庫）→safes
 
 ##### 10-2-1-5-3: 両方の形があるもの
-- scarf → scarfs/scarves, hoof（ひづめ） → hoofs/hooves, dwarf（小びと） → dwarfs/dwarves
+- scarf→scarfs/scarves, hoof（ひづめ）→hoofs/hooves, dwarf（小びと）→dwarfs/dwarves
 
 ## 10-3: 不規則複数
 ### 10-3-1: 母音が変化するもの
-- man → men, woman → women［wimin］, louse（シラミ） → lise, mouse → mice, foot → feet, tooth → teeth
+- man→men, woman→women［wimin］, louse（シラミ）→lise, mouse→mice, foot→feet, tooth→teeth
 
-### 10-3-2: -en, -ren がつくもの
-- ox（雄牛） → oxen, child → children
+### 10-3-2: -en,-renがつくもの
+- ox（雄牛）→oxen, child→children
 
 ## 10-4: 〈単複同形〉
-- aircraft（航空機） → aircraft, Chinese（中国人） → Chinese, corps［kɔːr］（団） → corps［kɔːrz］, craft（船舶） → craft, deer（シカ） → deer, Japanese（日本人） → Japanese, means（手段） → means, percent → percent, series → series, sheep → sheep, species（種） → species, Swiss（スイス人） → Swiss, yen → yen
+- aircraft（航空機）→aircraft, Chinese（中国人）→Chinese, corps［kɔːr］（団）→corps［kɔːrz］, craft（船舶）→craft, deer（シカ）→deer, Japanese（日本人）→Japanese, means（手段）→means, percent→percent, series→series, sheep→sheep, species（種）→species, Swiss（スイス人）→Swiss, yen→yen
 
 注意すべき〈単複同形〉として：
 
@@ -122,87 +124,87 @@
 - five dozen of eggs（卵5ダース）
 - one million three hundred twenty-nine thousand nine hundred ninty-nine（1,329,999）
 
-のように〈数詞〉など（some, severalなど）でその単位が〈複数〉あることを表現するときは -s をつけないが、
+のように〈数詞〉など（some, severalなど）でその単位が〈複数〉あることを表現するときは-sをつけないが、
 
 - dozens of people（何ダースもの人＝何十もの人）
 - hundreds of people（何百もの人）
 
-などの表現では -s をつける。
+などの表現では-sをつける。
 
 ## 10-5: 外来語の〈複数形〉
 ### 10-5-1: ラテン語系
-#### 10-5-1-1: -us で終わる語
+#### 10-5-1-1: -usで終わる語
 ##### 10-5-1-1-1: -us［əs］→-i［ai］
-- stimulus（刺激） → stimuli, alumnus（男子卒業生） → alumni
+- stimulus（刺激）→stimuli, alumnus（男子卒業生）→ alumni
 
-##### 10-5-1-1-2: -es をつけるもの
-- apparatus（装置） → apparatuses, bonus → bonuses, status（地位） → statuses
+##### 10-5-1-1-2: -esをつけるもの
+- apparatus（装置）→ apparatuses, bonus→bonuses, status（地位）→statuses
 
-##### 10-5-1-1-3: -us → -iの変化と -es をつける両方あるもの
-- focus（焦点） → foci［fousai］/focuses, radius（半径） → radii［reidiai］/radiuses
+##### 10-5-1-1-3: -us→-iの変化と-esをつける両方あるもの
+- focus（焦点）→foci［fousai］/focuses, radius（半径）→radii［reidiai］/radiuses
 
-#### 10-5-1-2: -a で終わる語
+#### 10-5-1-2: -aで終わる語
 ##### 10-5-1-2-1: -a［ə］→-ae［iː］
-- larva（幼虫） → larvae, alumna（女子卒業生） → alumnae
+- larva（幼虫）→larvae, alumna（女子卒業生）→ alumnae
 
 ##### 10-5-1-2-2: -s をつけるもの
-- area（地域） → areas, drama（ドラマ） → dramas, era（時代） → eras
+- area（地域）→areas, drama（ドラマ）→dramas, era（時代）→ eras
 
-##### 10-5-1-2-3: -a → -aeの変化と -s をつける両方あるもの
-- antenna（アンテナ、触角） → antennae（触角）/antennas（アンテナ）, formula（公式） → formulae/formulas
+##### 10-5-1-2-3: -a→-aeの変化と-sをつける両方あるもの
+- antenna（アンテナ、触角）→antennae（触角）/antennas（アンテナ）, formula（公式）→formulae/formulas
 
-#### 10-5-1-3: -um で終わる語
+#### 10-5-1-3: -umで終わる語
 ##### 10-5-1-3-1: -um［əm］→-a［ə］
-- bacterium（バクテリア） → bacteria, datum（データ） → data, erratum（誤植） → errata（正誤表）
+- bacterium（バクテリア）→bacteria, datum（データ）→data, erratum（誤植）→errata（正誤表）
 
-##### 10-5-1-3-2: -s をつけるもの
-- album → albums, museum → museums, forum（討議会） → forums, stadium（スタジアム） → stadiums
+##### 10-5-1-3-2: -sをつけるもの
+- album→albums, museum→museums, forum（討議会）→forums, stadium（スタジアム）→ stadiums
 
-##### 10-5-1-3-3: -um → -aの変化と -s をつける両方あるもの
-- curriculum（教育課程） → curricula/curriculums, mudium（媒介物） → media/mediums, memorandum（メモ） → memoranda/memorandums
+##### 10-5-1-3-3: -um→-aの変化と-sをつける両方あるもの
+- curriculum（教育課程）→curricula/curriculums, mudium（媒介物）→media/mediums, memorandum（メモ）→memoranda/memorandums
 
-#### 10-5-1-4: -ex, -ix で終わる語
-##### 10-5-1-4-1: -ex［eks］, -ix［iks］→-ices［isiːz］
-- codex（古写本） → codices
+#### 10-5-1-4: -ex,-ixで終わる語
+##### 10-5-1-4-1: -ex［eks］,-ix［iks］→-ices［isiːz］
+- codex（古写本）→codices
 
-##### 10-5-1-4-2: -ex［eks］, -ix → -icesの変化と -es をつける両方あるもの
-- index（指標） → indices/indexes, appendix（付録） → appendices/appendixes
+##### 10-5-1-4-2: -ex［eks］,-ix→-icesの変化と-esをつける両方あるもの
+- index（指標）→indices/indexes, appendix（付録）→appendices/appendixes
 
 ### 10-5-2: ギリシャ語系
 #### 10-5-2-1: -is［is］で終わる語：語尾が-es［iːz］に変化
-- analysis（分析） → analyses, axis（軸） → axes, basis（理論的基礎） → bases, crisis（危機） → crises
+- analysis（分析）→analyses, axis（軸）→ axes, basis（理論的基礎）→bases, crisis（危機）→crises
 
 #### 10-5-2-2: -onで終わる語
 ##### 10-5-2-2-1: -on［ən］→-a［ə］
-- criterion（判断基準） → criteria, phenomenon（現象） → phenomena
+- criterion（判断基準）→criteria, phenomenon（現象）→phenomena
 
-##### 10-5-2-2-2: -s をつけるもの
-- electron（電子） → electrons, neutron（中性子） → neutrons, proton（陽子） → protons
+##### 10-5-2-2-2: -sをつけるもの
+- electron（電子）→electrons, neutron（中性子）→neutrons, proton（陽子）→protons
 
-##### 10-5-2-2-3: -on → -a の変化と -s をつける両方あるもの
-- automaton（自動装置） → automata/automatons
+##### 10-5-2-2-3: -on→-aの変化と-sをつける両方あるもの
+- automaton（自動装置）→automata/automatons
 
 ### 10-5-3: フランス語系
-- plateau（高原） → plateaux/plateaus
+- plateau（高原）→ plateaux/plateaus
 
 ### 10-5-4: イタリア語系
-- tempo（テンポ） → tempi/tempos
+- tempo（テンポ）→ tempi/tempos
 
 ## 10-6: 文字・記号などの〈複数形〉
 一般に-'sをつけるが、〈'〉はないばあいもある。
 
-- Dot your i's and cross your t's.（iには点を打ち、tには横棒をつけなさい。＝最後の仕上げに細心の注意を払いなさい。）
-- Your 3's look like 8's.（君の書く3は8に見える。）
-- He became famous at the beginning of the 1970's［1970s］.（彼は1970年代のはじめに有名になった。）
+1. Dot your i's and cross your t's.（iには点を打ち、tには横棒をつけなさい。＝最後の仕上げに細心の注意を払いなさい。）
+2. Your 3's look like 8's.（君の書く3は8に見える。）
+3. He became famous at the beginning of the 1970's［1970s］.（彼は1970年代のはじめに有名になった。）
 
 ## 10-7: 〈複合名詞〉の〈複数形〉
 実際に〈複数〉になる〈名詞〉を〈複数形〉にする。〈名詞〉がないばあいは（grown-upなど）全体を1語とする。
 
 ### 10-7-1: 最後の要素を〈複数〉にするもの
-- pen-friend → pen-friends, girl friend → girl friends, grown-up（大人） → grown-ups
+- pen-friend→pen-friends, girl friend→girl friends, grown-up（大人）→grown-ups
 
 ### 10-7-2: 最初の要素を〈複数形〉にするもの
-- passer-by（通行人） → passers-by, looker-on（見物人） → lookers-on
+- passer-by（通行人）→passers-by, looker-on（見物人）→ lookers-on
 
 ## 10-8: 〈複数形〉の特別用法
 ### 10-8-1: つねに〈複数形〉の〈名詞〉
@@ -240,28 +242,28 @@
 
 例文：
 
-- _Give_ my best _regards_ to your parents.（ご両親にくれぐれもよろしくお伝え下さい。）
-- = _Say hello to_ your parents.
-- He did not _take_ great _pains_.（彼はあまり努力しなかった。）※take pains（骨を折る／努力する）
-- He was _in high spirits_.（彼は元気いっぱいだった。）
-- = He was _in good spitits_.
-- ←→He was _in bad spirits_.
-- = He was _in low spirits_.
-- = He was _out of spirits_.
+1. _Give_ my best _regards_ to your parents.（ご両親にくれぐれもよろしくお伝え下さい。）
+2. = _Say hello to_ your parents.
+3. He did not _take_ great _pains_.（彼はあまり努力しなかった。）※take pains（骨を折る／努力する）
+4. He was _in high spirits_.（彼は元気いっぱいだった。）
+5. = He was _in good spitits_.
+6. ←→He was _in bad spirits_.
+7. = He was _in low spirits_.
+8. = He was _out of spirits_.
 
 ### 10-8-3: 〈相互複数〉
 相手がいたり、同種のものの交換などのばあい、〈複数形〉を使うばあいがある。**試験で問われやすい**。
 
-- No one _shook hands with_ the same person twice.（誰も同じ相手と2回握手をすることはなかった。）
-- She _made friends with_ the little girl.（彼女はその少女と仲良くなった。）
-- He _changed trains_ at Sendai.（彼は仙台で列車を乗り換えた。）
-- Would you mind _changing seats with_ me?（席を替わっていただけませんか？）
-- We _took turns_ in driving the car.（我々は交代で運転した。）
+1. No one _shook hands with_ the same person twice.（誰も同じ相手と2回握手をすることはなかった。）
+2. She _made friends with_ the little girl.（彼女はその少女と仲良くなった。）
+3. He _changed trains_ at Sendai.（彼は仙台で列車を乗り換えた。）
+4. Would you mind _changing seats with_ me?（席を替わっていただけませんか？）
+5. We _took turns_ in driving the car.（我々は交代で運転した。）
 
 ### 10-8-4: 〈数詞＋名詞〉
 #### 10-8-4-1: お金・時間・距離のまとまり：〈単数扱い〉
 〈複数形〉であっても1つのまとまりとみなされ、〈単数扱い〉される。**試験で問われやすい**。
 
-- One hundred dollars _is_ enough to buy that sweater.（100ドルあればそのセーターを買うのに十分だ。）
-- Twinty miles _is_ a long distance to run.（20マイルは走るには長い距離だ。）
-- Ten years _is_ called a "decade."（10年は"decade"と呼ばれる。）
+1. One hundred dollars _is_ enough to buy that sweater.（100ドルあればそのセーターを買うのに十分だ。）
+2. Twinty miles _is_ a long distance to run.（20マイルは走るには長い距離だ。）
+3. Ten years _is_ called a "decade."（10年は"decade"と呼ばれる。）
