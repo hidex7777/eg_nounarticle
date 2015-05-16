@@ -10,7 +10,7 @@
 これはfamily（家族）のように、集合体をひとつのまとまりとして〈単数扱い〉するばあいと、そのメンバーに着目して〈複数扱い〉するばあいとがあるものだ。
 
 1. His family _is_ large.（彼のところは大家族だ。）
-2. There are about _40 families_ in the village.（その村にはおよそ40世帯の家族がいる。）
+2. There _are_ about _40 families_ in the village.（その村にはおよそ40世帯の家族がいる。）
 
 1つめの例文は、「彼の家族」という「ひとつのまとまり」として主語を扱っているため、三人称単数現在の_is_が使われている。**〈単数扱い〉ということばは、この意味で使われる**。さらにいうなら、この文の主語を受ける代名詞は_it_になる。
 
@@ -28,8 +28,8 @@
 
 もうひとつ、familyタイプの名詞としてstaffを見てみよう。
 
-1. Our staff are working hard.（うちのスタッフは一生懸命働いている。）〈英〉
-2. Our staff is working hard.（うちのスタッフは一生懸命働いている。）〈米〉
+1. Our staff _are_ working hard.（うちのスタッフは一生懸命働いている。）〈英〉
+2. Our staff _is_ working hard.（うちのスタッフは一生懸命働いている。）〈米〉
 3. He is on the staff of the hospital.（彼は病院の職員だ。）
 4. She is a member of the staff.（彼女は職員の1人だ。）
 
@@ -48,9 +48,9 @@ staffは〈集合名詞〉であって、集合体を表している。だから
 
 これはfamilyタイプのように、英米差といった例外がないため、そのまま覚えればよい。なお、〈複数形〉にならないため、純然たる〈可算名詞〉ではないとしている文法教科書もあるし、英和辞典でも〈不可算名詞〉と明記しているものが多い。
 
-1. The police are after the thief.（警察は泥棒を追跡中である。）
-2. Police have so far arrested five people.（警察は今のところ、5人を逮捕している。）
-3. Five police were on the scene.（5人の警官が現場に来ていた。）
+1. The police _are_ after the thief.（警察は泥棒を追跡中である。）
+2. Police _have_ so far arrested five people.（警察は今のところ、5人を逮捕している。）
+3. _Five_ police _were_ on the scene.（5人の警官が現場に来ていた。）
 
 1つめの例文は、典型的な〈複数扱いの集合名詞〉の使用法で、三人称複数現在の_are_が使われている。このばあいのpoliceは警官たち（police officers）の集合としての「警察」という意味であり、「警察組織」を意味している。一般的な英和辞典も［通例the～］と書いているように、〈定冠詞〉とともに用いることで、集合体全体または特定のものを意味することになる。ふつう、警察組織は官僚型の組織であるため（内実はそうではないかもしれないが）、今ここで泥棒を追いかけているのが特定の県警だとしても、この泥棒が別の県に移動しても警察組織の中で連携をとり、相変わらず「同じ」警察組織が追っていることになり、「警察がその泥棒を追っている」という事態は継続することになる。もしも追いかけているのがある1人の警官であるとしたら、a police officerを主語にすべきということになる。
 
@@ -87,7 +87,7 @@ peopleは典型的な〈多義語〉である。ここで〈つねに複数扱�
 
 - baggage（手荷物《米》）; luggage（手荷物《英》）, clothing（衣類）, fiction（創作物）, food（食物）, funiture（家具）, jewelry（宝石類）, machinery（機械）, mail（郵便・郵便物）; post（郵便・郵便物《英》）, merchandise（商品）, music（音楽）, poetry（詩）, scenery（風景・景色）
 
-ここでは「不可算名詞の基本的用法」で述べた特徴がそのままあてはまる。つまり：
+ここでは[「〈不可算名詞〉の基本的用法」](chapter03.md)で述べた特徴がそのままあてはまる。つまり：
 
 1. 複数形にできない：［正］_two pieces of_ baggage　［誤］_two baggages_
 2. 不定冠詞に後続できない：［正］a _machine_　［誤］_a machinery_
